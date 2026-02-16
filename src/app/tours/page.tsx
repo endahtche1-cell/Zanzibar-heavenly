@@ -18,7 +18,7 @@ export default function ToursPage() {
       <HeroSection
         title="Zanzibar Tours"
         subtitle="From historic Stone Town to crystal-clear waters — discover the island through experiences curated by local experts."
-        image="/images/hero/tours.jpg"
+        image="https://images.unsplash.com/photo-1617032021001-84731af165ab?w=1920&q=80"
         compact
       />
 

@@ -18,7 +18,7 @@ export default function ExpeditionsPage() {
       <HeroSection
         title="Zanzibar Expeditions"
         subtitle="Multi-day adventures that take you deeper into the heart and soul of Zanzibar and its surrounding islands."
-        image="/images/hero/expeditions.jpg"
+        image="https://images.unsplash.com/photo-1634662052101-78f72e8307be?w=1920&q=80"
         compact
       />
 

@@ -18,7 +18,7 @@ export default function GuidePage() {
       <HeroSection
         title="Zanzibar Guide"
         subtitle="Insider tips, cultural insights, and practical advice to help you plan the perfect Zanzibar adventure."
-        image="/images/hero/guide.jpg"
+        image="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1920&q=80"
         compact
       />
 

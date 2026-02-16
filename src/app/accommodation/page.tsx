@@ -18,7 +18,7 @@ export default function AccommodationPage() {
       <HeroSection
         title="Zanzibar Accommodation"
         subtitle="From beachfront villas to historic boutique hotels — find your perfect island retreat."
-        image="/images/hero/accommodation.jpg"
+        image="https://images.unsplash.com/photo-1587847139658-201a62d23770?w=1920&q=80"
         compact
       />
 

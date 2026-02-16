@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     siteName: siteConfig.name,
     title: `${siteConfig.name} — Bespoke Tours, Expeditions & Stays in Zanzibar`,
     description: siteConfig.tagline,
-    images: [{ url: '/images/hero/home.jpg', width: 1200, height: 630 }],
+    images: [{ url: 'https://images.unsplash.com/photo-1627899316467-d9e61aa54f98?w=1200&q=80', width: 1200, height: 630 }],
   },
   twitter: {
     card: 'summary_large_image',

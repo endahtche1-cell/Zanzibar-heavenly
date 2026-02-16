@@ -20,7 +20,7 @@ export default function HeroSection({
   ctaText,
   ctaHref,
   secondaryCta,
-  image = '/images/hero/home.jpg',
+  image = 'https://images.unsplash.com/photo-1627899316467-d9e61aa54f98?w=1920&q=80',
   compact = false,
 }: HeroSectionProps) {
   return (

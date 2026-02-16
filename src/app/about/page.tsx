@@ -16,7 +16,7 @@ export default function AboutPage() {
       <HeroSection
         title="Our Story"
         subtitle="Born from a love of Zanzibar and a desire to share its magic with the world."
-        image="/images/hero/about.jpg"
+        image="https://images.unsplash.com/photo-1523805009345-7448845a9e53?w=1920&q=80"
         compact
       />
 
