@@ -28,6 +28,7 @@ export const siteConfig = {
     { label: 'Expeditions', href: '/expeditions' },
     { label: 'Accommodation', href: '/accommodation' },
     { label: 'Guide', href: '/guide' },
+    { label: 'Gallery', href: '/gallery' },
     { label: 'About', href: '/about' },
     { label: 'Contact', href: '/contact' },
   ],
@@ -39,6 +40,7 @@ export const siteConfig = {
     ],
     company: [
       { label: 'About Us', href: '/about' },
+      { label: 'Gallery', href: '/gallery' },
       { label: 'Zanzibar Guide', href: '/guide' },
       { label: 'FAQ', href: '/faq' },
       { label: 'Contact', href: '/contact' },
