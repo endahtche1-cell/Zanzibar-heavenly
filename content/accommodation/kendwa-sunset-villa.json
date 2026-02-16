@@ -1,0 +1,54 @@
+{
+  "title": "Kendwa Sunset Villa",
+  "slug": "kendwa-sunset-villa",
+  "heroImage": "https://images.unsplash.com/photo-1758192838598-a1de4da5dcaf?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1758192838598-a1de4da5dcaf?w=800&q=80&fit=crop&ar=4:3",
+    "https://images.unsplash.com/photo-1758192838598-a1de4da5dcaf?w=800&q=80&fit=crop&ar=3:2",
+    "https://images.unsplash.com/photo-1758192838598-a1de4da5dcaf?w=800&q=80&fit=crop&ar=1:1"
+  ],
+  "area": "Kendwa",
+  "type": "villa",
+  "bedrooms": 2,
+  "sleeps": 4,
+  "priceFrom": 220,
+  "currency": "EUR",
+  "amenities": [
+    "Wi-Fi",
+    "Air conditioning in all rooms",
+    "Private plunge pool",
+    "Fully equipped kitchen",
+    "Open-plan living with ocean views",
+    "Private garden with direct beach path",
+    "Outdoor dining area with BBQ",
+    "Daily housekeeping",
+    "Concierge service",
+    "In-room safe",
+    "Mosquito nets",
+    "Washing machine",
+    "Sun loungers and beach umbrellas",
+    "Bluetooth speaker system"
+  ],
+  "nearby": [
+    "Kendwa beach (1 min walk)",
+    "Kendwa Rocks beach bar and restaurant (5 min walk)",
+    "Full Moon Party venue (5 min walk)",
+    "Nungwi village (10 min drive)",
+    "Nungwi turtle aquarium (12 min drive)",
+    "Nearest dive centre (8 min walk)"
+  ],
+  "houseRules": [
+    "No smoking indoors",
+    "No parties or events",
+    "Quiet hours 11 PM \u2013 7 AM",
+    "Maximum 4 guests",
+    "Check-out cleaning fee included in rate"
+  ],
+  "bookingNotes": "Minimum stay of 2 nights, 5-night minimum during peak season (July\u2013August, December\u2013January). Check-in from 3 PM, check-out by 11 AM. Airport transfer $40 each way. Private chef service available for $45 per meal (excluding ingredients).",
+  "featured": false,
+  "seo": {
+    "title": "Kendwa Sunset Villa | Zanzibar Heavenly",
+    "description": "Private 2-bedroom villa on Kendwa beach with plunge pool, ocean views, and direct beach access. Perfect for couples or families. From $220/night."
+  },
+  "content": "Kendwa Sunset Villa sits on the western shore of Zanzibar, directly facing the point where the sun drops into the Indian Ocean each evening in a display that has to be seen to be believed. This stylish two-bedroom villa offers the privacy and space of your own beach house with the convenience of a concierge who can arrange everything from boat trips to private dinners.\n\nThe villa\u2019s open-plan design makes the most of its oceanfront position: floor-to-ceiling glass doors fold back to merge the living room with a shaded terrace and plunge pool, all facing the sea. Both bedrooms are generously sized with king beds, en-suite bathrooms, and private views of the garden or the ocean. The fully equipped kitchen is ideal for those who want to cook with fresh market ingredients, but most guests find it hard to resist the private chef option\u2014imagine grilled prawns and passion-fruit sorbet served on your terrace as the sky turns pink. Kendwa\u2019s famously tide-independent beach means you can swim at any hour, and the lively beach bar scene is just a short walk along the sand."
+}

@@ -1,0 +1,83 @@
+{
+  "title": "Serengeti & Ngorongoro Crater Safari",
+  "slug": "serengeti-ngorongoro-safari",
+  "heroImage": "https://images.unsplash.com/photo-1663990206680-b24a542340d4?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1663990206680-b24a542340d4?w=800&q=80&fit=crop&ar=4:3",
+    "https://images.unsplash.com/photo-1663990206680-b24a542340d4?w=800&q=80&fit=crop&ar=3:2",
+    "https://images.unsplash.com/photo-1663990206680-b24a542340d4?w=800&q=80&fit=crop&ar=1:1"
+  ],
+  "location": "Zanzibar \u2192 Serengeti & Ngorongoro, Tanzania",
+  "duration": "5\u20137 days",
+  "priceFrom": 2300,
+  "currency": "EUR",
+  "bestTimeToGo": "June to October for the Great Migration; December to March for calving season",
+  "difficulty": "Moderate",
+  "groupSize": "2\u20136 guests",
+  "highlights": [
+    "Witness the world-famous Serengeti \u2014 home to the Great Migration",
+    "Descend into the Ngorongoro Crater, a UNESCO World Heritage Site",
+    "Spot the Big Five: lion, leopard, elephant, buffalo, and rhino",
+    "Stay in safari lodges and tented camps in the heart of the wilderness",
+    "Experience the vast Serengeti plains stretching to the horizon",
+    "All flights, game drives, accommodation, meals, and park fees included",
+    "Professional English-speaking safari guide"
+  ],
+  "includes": [
+    "Return flights Zanzibar \u2013 Arusha (or Dar es Salaam connection)",
+    "All ground transportation in 4x4 safari vehicle",
+    "Professional English-speaking safari guide/driver",
+    "Serengeti National Park entrance fees",
+    "Ngorongoro Conservation Area entrance and crater service fees",
+    "Safari lodge or tented camp accommodation (full board)",
+    "All meals during the safari",
+    "Drinking water throughout",
+    "Airport transfers on mainland"
+  ],
+  "excludes": [
+    "International flights to/from Zanzibar",
+    "Zanzibar hotel accommodation",
+    "Travel and safari insurance (required)",
+    "Alcoholic beverages",
+    "Gratuities for guide and lodge staff",
+    "Personal expenses",
+    "Optional hot air balloon safari over the Serengeti"
+  ],
+  "itinerary": [
+    {
+      "dayTitle": "Day 1 \u2014 Fly to Arusha & Transfer",
+      "dayBody": "Morning flight from Zanzibar to Arusha, the gateway to Tanzania\u2019s northern safari circuit. Meet your safari guide and begin the drive towards the Ngorongoro Conservation Area. Enjoy the dramatic landscape change from tropical coast to highland savannah. Overnight at a lodge on the rim of the Ngorongoro Crater with breathtaking views."
+    },
+    {
+      "dayTitle": "Day 2 \u2014 Ngorongoro Crater",
+      "dayBody": "Descend 600 metres into the Ngorongoro Crater \u2014 the world\u2019s largest intact volcanic caldera and one of Africa\u2019s most spectacular wildlife viewing areas. The crater floor is home to an astonishing concentration of wildlife including lions, elephants, hippos, flamingos, and the critically endangered black rhino. Spend a full day exploring this natural wonder before ascending back to the rim."
+    },
+    {
+      "dayTitle": "Day 3\u20135 \u2014 Serengeti National Park",
+      "dayBody": "Drive across the stunning Serengeti plains \u2014 an endless expanse of grassland, acacia woodland, and kopje rock formations. Depending on the season, witness the Great Migration \u2014 millions of wildebeest, zebra, and gazelle moving across the landscape. Daily game drives take you deep into the park to spot big cats, elephant herds, cheetahs, and an incredible diversity of birdlife. Evenings are spent at your safari camp, dining under the stars and listening to the sounds of the African bush."
+    },
+    {
+      "dayTitle": "Day 6\u20137 \u2014 Return to Zanzibar",
+      "dayBody": "After a final morning game drive, transfer to the airstrip for your flight back to Zanzibar. Arrive back on the island in time for a sunset on the beach \u2014 the perfect way to reflect on an extraordinary safari adventure."
+    }
+  ],
+  "whatToBring": [
+    "Binoculars (essential)",
+    "Camera with zoom lens",
+    "Warm jacket and fleece for Ngorongoro rim (it gets cold at altitude)",
+    "Neutral-coloured long-sleeved shirts and trousers",
+    "Comfortable closed shoes",
+    "Sunscreen, hat, and sunglasses",
+    "Insect repellent",
+    "Small daypack",
+    "Personal medication"
+  ],
+  "pickupInfo": "Zanzibar hotel pickup for airport transfer included. Full briefing provided the evening before departure.",
+  "cancellationPolicyShort": "Free cancellation up to 14 days before departure. 50% refund for cancellations 7\u201313 days before.",
+  "featured": true,
+  "seo": {
+    "title": "Serengeti & Ngorongoro Safari from Zanzibar | Zanzibar Heavenly",
+    "description": "Experience the world-famous Serengeti and Ngorongoro Crater on a premium safari from Zanzibar. Spot the Big Five, witness the Great Migration, all-inclusive package."
+  },
+  "content": "This is the safari of a lifetime \u2014 combining the world-famous Serengeti National Park with the awe-inspiring Ngorongoro Crater, all arranged seamlessly from your Zanzibar base.\n\nThe Serengeti needs no introduction. This is where the Great Migration unfolds \u2014 over two million wildebeest, zebra, and gazelle moving in a vast, ancient cycle across the golden plains. It\u2019s where prides of lions laze in the shade of acacia trees, cheetahs sprint across open grassland, and the African sunset paints the sky in colours you\u2019ve never seen before.\n\nThe Ngorongoro Crater is equally extraordinary \u2014 a collapsed volcano whose floor has become one of the densest wildlife habitats on Earth. Here, in a natural arena ringed by 600-metre walls, you\u2019ll find every major African species including the elusive black rhino.\n\nThis all-inclusive package takes care of everything: flights from Zanzibar, 4x4 game drives with an expert guide, comfortable safari accommodation, all meals, and every park fee. You just need to bring your sense of wonder."
+}

@@ -1,0 +1,143 @@
+@import "tailwindcss";
+
+@theme {
+  /* ─── Bright Editorial Coastal ─── */
+
+  /* Warm light bases */
+  --color-warmwhite: #f7f6f2;
+  --color-white: #ffffff;
+  --color-sand: #f0eee8;
+  --color-sandlight: #f5f3ed;
+
+  /* Text */
+  --color-ink: #0f1720;
+  --color-ink-light: #2a3440;
+  --color-muted: #6b7280;
+  --color-subtle: #9ca3af;
+
+  /* Accent — Ocean teal */
+  --color-teal: #2f6f73;
+  --color-teal-light: #3d8a8e;
+  --color-teal-dark: #245a5d;
+
+  /* Accent — Deep blue */
+  --color-blue: #1f3c88;
+  --color-blue-light: #2b52b0;
+
+  /* Accent — Coral */
+  --color-coral: #e86f51;
+  --color-coral-light: #f08d75;
+  --color-coral-dark: #d45a3c;
+
+  /* Accent — Saffron */
+  --color-saffron: #e2a94b;
+  --color-saffron-light: #f0c36e;
+
+  /* Accent — Palm green */
+  --color-palm: #3f7d6a;
+  --color-palm-light: #4d9680;
+
+  /* Semantic */
+  --color-success: #3f7d6a;
+  --color-error: #d45a3c;
+
+  /* Borders & dividers */
+  --color-border: #e5e2dc;
+  --color-border-light: #eeece6;
+
+  /* Fonts */
+  --font-heading: 'DM Sans', -apple-system, sans-serif;
+  --font-body: 'Inter', -apple-system, sans-serif;
+}
+
+/* ─── Base ─── */
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html.lenis, html.lenis body {
+  height: auto;
+}
+
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+
+body {
+  background: var(--color-warmwhite);
+  color: var(--color-ink);
+}
+
+::selection {
+  background: var(--color-coral);
+  color: white;
+}
+
+/* ─── Focus ─── */
+*:focus-visible {
+  outline: 2px solid var(--color-teal);
+  outline-offset: 3px;
+}
+
+/* ─── Skip link ─── */
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  background: var(--color-ink);
+  color: var(--color-warmwhite);
+  padding: 8px 16px;
+  z-index: 100;
+  transition: top 0.2s;
+  font-size: 0.875rem;
+}
+.skip-link:focus {
+  top: 0;
+}
+
+/* ─── Scrollbar ─── */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-border);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-muted);
+}
+
+/* ─── Image placeholder ─── */
+.img-placeholder {
+  background: linear-gradient(135deg, var(--color-sand) 0%, var(--color-warmwhite) 100%);
+}
+
+/* ─── Editorial utilities ─── */
+.text-balance {
+  text-wrap: balance;
+}
+
+.editorial-gap {
+  padding-top: clamp(4rem, 8vw, 8rem);
+  padding-bottom: clamp(4rem, 8vw, 8rem);
+}
+
+/* ─── Accent shapes ─── */
+.accent-shape {
+  position: absolute;
+  border-radius: 50%;
+  opacity: 0.08;
+  pointer-events: none;
+}

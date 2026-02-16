@@ -1,0 +1,51 @@
+{
+  "title": "Stone Town Heritage Hotel",
+  "slug": "stone-town-heritage-hotel",
+  "heroImage": "https://images.unsplash.com/photo-1561667727-71823f977f9f?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1561667727-71823f977f9f?w=800&q=80&fit=crop&ar=4:3",
+    "https://images.unsplash.com/photo-1561667727-71823f977f9f?w=800&q=80&fit=crop&ar=3:2",
+    "https://images.unsplash.com/photo-1561667727-71823f977f9f?w=800&q=80&fit=crop&ar=1:1"
+  ],
+  "area": "Stone Town",
+  "type": "hotel",
+  "bedrooms": 1,
+  "sleeps": 2,
+  "priceFrom": 95,
+  "currency": "EUR",
+  "amenities": [
+    "Wi-Fi",
+    "Air conditioning",
+    "Rooftop restaurant and bar",
+    "Plunge pool on rooftop terrace",
+    "24-hour reception",
+    "Room service",
+    "Laundry service",
+    "Tour desk",
+    "Ceiling fans",
+    "Mosquito nets",
+    "In-room safe",
+    "Complimentary breakfast"
+  ],
+  "nearby": [
+    "Forodhani Gardens night market (3 min walk)",
+    "House of Wonders (5 min walk)",
+    "Old Fort (5 min walk)",
+    "Darajani Market (10 min walk)",
+    "Ferry terminal (8 min walk)",
+    "Stone Town waterfront (2 min walk)"
+  ],
+  "houseRules": [
+    "No smoking in rooms (rooftop terrace smoking area available)",
+    "Quiet hours 11 PM \u2013 6 AM",
+    "Visitors must register at reception",
+    "No outside food in the restaurant area"
+  ],
+  "bookingNotes": "Check-in from 2 PM, check-out by 11 AM. Late check-out available on request (subject to availability). Airport transfer available for $20 each way. The hotel can arrange all tours and excursions through the in-house tour desk.",
+  "featured": true,
+  "seo": {
+    "title": "Stone Town Heritage Hotel | Zanzibar Heavenly",
+    "description": "Stay in a restored 19th-century merchant\u2019s house in the heart of Stone Town. Rooftop restaurant, plunge pool, and complimentary breakfast from $95/night."
+  },
+  "content": "The Stone Town Heritage Hotel occupies a beautifully restored 19th-century merchant\u2019s house on one of the old quarter\u2019s most atmospheric streets. Original carved Zanzibari doors open into a cool, tiled courtyard where a fountain trickles beneath a canopy of bougainvillea\u2014a world away from the lively alleyways just outside.\n\nEach room has been individually designed to honour the building\u2019s history while providing modern comfort. Expect four-poster beds draped in white muslin, hand-plastered lime walls, brass fixtures, and antique Swahili furniture alongside reliable air conditioning and fast Wi-Fi. The rooftop is the hotel\u2019s crowning feature: a terrace restaurant serving Zanzibari and international cuisine with uninterrupted views over the Stone Town skyline, its minarets and church spires silhouetted against spectacular Indian Ocean sunsets. A small plunge pool offers a refreshing dip after a day of exploring. The location could not be better\u2014Forodhani Gardens, the Old Fort, and the waterfront are all within a five-minute walk."
+}

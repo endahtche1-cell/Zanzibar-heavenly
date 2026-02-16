@@ -1,0 +1,60 @@
+{
+  "title": "South Coast \u2014 Sea Turtles & Mtende Beach",
+  "slug": "south-coast-adventure",
+  "heroImage": "https://images.unsplash.com/photo-1578311992127-401f5537b3a1?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1578311992127-401f5537b3a1?w=800&q=80&fit=crop&ar=4:3",
+    "https://images.unsplash.com/photo-1578311992127-401f5537b3a1?w=800&q=80&fit=crop&ar=3:2",
+    "https://images.unsplash.com/photo-1578311992127-401f5537b3a1?w=800&q=80&fit=crop&ar=1:1"
+  ],
+  "location": "South Zanzibar \u2013 Sallaam Cave & Mtende Beach",
+  "duration": "Full day (7\u20138 hours)",
+  "priceFrom": 85,
+  "currency": "EUR",
+  "bestTimeToGo": "Year-round; June to October for the driest weather",
+  "difficulty": "Easy",
+  "groupSize": "2\u201312 guests",
+  "highlights": [
+    "Swim with wild sea turtles at the natural Sallaam Cave pool",
+    "Explore the dramatic cave formations and crystal-clear natural pools",
+    "Visit Mtende Beach \u2014 one of the most beautiful and unspoilt beaches in southern Zanzibar",
+    "Experience the quieter, less-touristed side of the island",
+    "Enjoy traditional lunch at a beachside spot",
+    "Drive through charming southern fishing villages"
+  ],
+  "includes": [
+    "Hotel pickup and drop-off",
+    "English-speaking guide",
+    "Entrance fee to Sallaam Cave",
+    "Snorkelling equipment for the cave",
+    "Bottled water and soft drinks",
+    "Traditional lunch"
+  ],
+  "excludes": [
+    "Gratuities",
+    "Alcoholic beverages",
+    "Personal purchases",
+    "Travel insurance"
+  ],
+  "itinerary": [
+    {
+      "dayTitle": "South Coast Exploration",
+      "dayBody": "After morning pickup from your hotel, drive south through the island\u2019s interior, passing through picturesque villages and lush tropical forest. Your first stop is Sallaam Cave \u2014 a stunning natural cave with a crystal-clear pool where green sea turtles swim freely. Wade into the cool, turquoise water and swim alongside these beautiful creatures in their natural habitat. After the cave experience, continue south to Mtende Beach, widely considered one of the most beautiful and untouched beaches on the island. The powdery white sand stretches endlessly, framed by palm trees and the deep blue Indian Ocean. Enjoy a relaxing traditional lunch at a nearby beach restaurant before spending the afternoon swimming, walking the shore, or simply soaking in the serenity of this remote paradise. Return to your hotel in the late afternoon."
+    }
+  ],
+  "whatToBring": [
+    "Swimsuit and towel",
+    "Reef-safe sunscreen",
+    "Waterproof camera",
+    "Comfortable shoes for the cave",
+    "Hat and sunglasses"
+  ],
+  "pickupInfo": "Complimentary pickup from all major hotel areas in Zanzibar.",
+  "cancellationPolicyShort": "Free cancellation up to 24 hours before the tour.",
+  "featured": false,
+  "seo": {
+    "title": "South Coast Tour \u2013 Sea Turtles & Mtende Beach | Zanzibar Heavenly",
+    "description": "Swim with sea turtles at Sallaam Cave and explore the stunning Mtende Beach on Zanzibar\u2019s unspoilt south coast. A full-day adventure off the beaten path."
+  },
+  "content": "Zanzibar\u2019s south coast is the island\u2019s best-kept secret \u2014 a stretch of raw, untamed beauty that most tourists never see. This full-day tour takes you to two of the south\u2019s most remarkable spots: Sallaam Cave and Mtende Beach.\n\nSallaam Cave is a natural wonder \u2014 a cave opening into a pristine, turquoise pool where wild green sea turtles glide through the water. Swimming alongside these graceful creatures in their natural environment is a truly magical experience. Afterwards, head to Mtende Beach, a stunningly beautiful stretch of white sand on the island\u2019s southern tip. With virtually no development in sight, this is the Zanzibar of postcards and dreams \u2014 just sand, sea, palms, and peace."
+}

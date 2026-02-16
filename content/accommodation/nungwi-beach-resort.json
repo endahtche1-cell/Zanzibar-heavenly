@@ -1,0 +1,53 @@
+{
+  "title": "Nungwi Beach Resort",
+  "slug": "nungwi-beach-resort",
+  "heroImage": "https://images.unsplash.com/photo-1587847139658-201a62d23770?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1587847139658-201a62d23770?w=800&q=80&fit=crop&ar=4:3",
+    "https://images.unsplash.com/photo-1587847139658-201a62d23770?w=800&q=80&fit=crop&ar=3:2",
+    "https://images.unsplash.com/photo-1587847139658-201a62d23770?w=800&q=80&fit=crop&ar=1:1"
+  ],
+  "area": "Nungwi",
+  "type": "resort",
+  "bedrooms": 1,
+  "sleeps": 3,
+  "priceFrom": 250,
+  "currency": "EUR",
+  "amenities": [
+    "Wi-Fi",
+    "Air conditioning",
+    "Two swimming pools (one adults-only)",
+    "Private beach area with loungers",
+    "On-site spa and wellness centre",
+    "Two restaurants and a beach bar",
+    "Water sports centre (kayaks, paddleboards, snorkelling)",
+    "Fitness room",
+    "Daily housekeeping",
+    "24-hour reception",
+    "Concierge and tour booking service",
+    "Complimentary half-board (breakfast and dinner)",
+    "Mosquito nets",
+    "In-room safe",
+    "Bathrobes and slippers"
+  ],
+  "nearby": [
+    "Nungwi beach (direct access)",
+    "Nungwi village (5 min walk)",
+    "Mnarani Marine Turtle Conservation (10 min walk)",
+    "Nungwi lighthouse viewpoint (15 min walk)",
+    "Kendwa beach (15 min drive)"
+  ],
+  "houseRules": [
+    "No smoking indoors (designated outdoor areas available)",
+    "Appropriate swimwear in restaurant areas",
+    "Children under 12 not permitted in the adults-only pool",
+    "Quiet hours 11 PM \u2013 7 AM in room areas"
+  ],
+  "bookingNotes": "Check-in from 3 PM, check-out by 11 AM. Half-board included (upgrade to all-inclusive available). Airport transfer $40 each way. Honeymoon and anniversary packages available with room upgrades and spa credits.",
+  "featured": true,
+  "seo": {
+    "title": "Nungwi Beach Resort | Zanzibar Heavenly",
+    "description": "All-inclusive beach resort on Zanzibar\u2019s famous Nungwi beach. Two pools, spa, water sports, and stunning sunset views. From $250/night with half-board."
+  },
+  "content": "Set on the powdery white sand of Nungwi\u2014widely considered Zanzibar\u2019s finest beach\u2014this resort delivers the complete tropical escape. The tide barely shifts here, which means you can swim in bathwater-warm turquoise water from dawn to dusk without waiting for tidal changes that affect other parts of the island.\n\nRooms and suites are arranged in low-rise coral-stone buildings draped in tropical gardens, each with a private balcony or terrace facing either the ocean or the lush grounds. Two swimming pools, including a serene adults-only infinity pool, provide alternatives to the sea, while the spa offers massages and treatments using local coconut and spice oils. Dining is a highlight: the oceanfront restaurant specialises in fresh-caught seafood and Swahili fusion cuisine, and the beach bar is the place to be when the Nungwi sunset paints the sky in every shade of fire. A full water sports centre makes it easy to try kayaking, stand-up paddleboarding, or snorkelling right from the beach."
+}

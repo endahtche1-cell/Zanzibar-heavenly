@@ -1,0 +1,89 @@
+{
+  "title": "7-Day Zanzibar Island Package",
+  "slug": "zanzibar-7-day-package",
+  "heroImage": "https://images.unsplash.com/photo-1734343470199-dcef3f2104af?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1734343470199-dcef3f2104af?w=800&q=80&fit=crop&ar=4:3",
+    "https://images.unsplash.com/photo-1734343470199-dcef3f2104af?w=800&q=80&fit=crop&ar=3:2",
+    "https://images.unsplash.com/photo-1734343470199-dcef3f2104af?w=800&q=80&fit=crop&ar=1:1"
+  ],
+  "location": "All around Zanzibar Island",
+  "duration": "7 days / 6 nights",
+  "priceFrom": 680,
+  "currency": "EUR",
+  "bestTimeToGo": "June to October for dry season; also excellent December to February",
+  "difficulty": "Easy",
+  "groupSize": "2\u201312 guests",
+  "highlights": [
+    "Prison Island giant tortoises and Nakupenda sandbank with seafood lunch",
+    "Swim with dolphins and turtles at Mnemba Island and Baraka Aquarium",
+    "Jozani National Park, The Rock Restaurant, and Kuza Cave",
+    "Full-day Safari Blue cruise with seafood lunch",
+    "Stone Town city tour and spice farm visit with Swahili dinner",
+    "All airport transfers and ground transportation included"
+  ],
+  "includes": [
+    "Airport pickup and drop-off transfers",
+    "All ground transportation between activities",
+    "All entrance fees and activity costs",
+    "Meals as specified in itinerary (seafood lunches, Swahili dinner)",
+    "English-speaking guide",
+    "Boat transfers for all water activities",
+    "Snorkelling equipment"
+  ],
+  "excludes": [
+    "Accommodation (hotel booking assistance available)",
+    "International flights",
+    "Meals not specified in itinerary",
+    "Gratuities",
+    "Personal expenses and shopping",
+    "Travel insurance"
+  ],
+  "itinerary": [
+    {
+      "dayTitle": "Day 1 \u2014 Arrival",
+      "dayBody": "Arrive at Karume International Airport in Zanzibar. Our team meets you at arrivals and transfers you directly to your hotel. The rest of the day is free to settle in, explore the hotel grounds, and enjoy the beach."
+    },
+    {
+      "dayTitle": "Day 2 \u2014 Prison Island & Nakupenda Sandbank",
+      "dayBody": "A full day of island exploration. Board a boat to Prison Island where you\u2019ll meet the giant Aldabra tortoises, some over 100 years old. Then cruise to the stunning Nakupenda sandbank \u2014 a strip of white sand in the middle of the ocean \u2014 for a fresh seafood lunch prepared right on the beach."
+    },
+    {
+      "dayTitle": "Day 3 \u2014 Mnemba Dolphins & Baraka Aquarium",
+      "dayBody": "An early start for a magical day. Head out to sea near Mnemba Island to swim with wild dolphins. Afterwards, snorkel the pristine reefs around Mnemba Atoll. The day continues with a visit to the Baraka Natural Aquarium where you can swim with sea turtles in crystal-clear water."
+    },
+    {
+      "dayTitle": "Day 4 \u2014 Jozani Forest, Rock Restaurant & Kuza Cave",
+      "dayBody": "Explore Jozani National Park, home to the rare Zanzibar red colobus monkey. Continue to the iconic Rock Restaurant, perched on a rock in the ocean, for a memorable lunch. Finish the day visiting the fascinating Kuza Cave and the charming village of Jambiani."
+    },
+    {
+      "dayTitle": "Day 5 \u2014 Safari Blue",
+      "dayBody": "A full day aboard a traditional dhow for the legendary Safari Blue experience. Sail through turquoise waters, relax on pristine sandbanks, snorkel over coral reefs, and swim in the lagoon. Enjoy a lavish fresh seafood lunch prepared on Kwale Island beach."
+    },
+    {
+      "dayTitle": "Day 6 \u2014 Stone Town & Spice Farms",
+      "dayBody": "Discover the UNESCO World Heritage Site of Stone Town with a guided walking tour through its labyrinth of alleyways, markets, and historic monuments. In the afternoon, visit a traditional spice farm to see, smell, and taste the spices that made Zanzibar famous. The day ends with a special Swahili dinner featuring local specialties."
+    },
+    {
+      "dayTitle": "Day 7 \u2014 Departure",
+      "dayBody": "Your Zanzibar journey comes to an end. Depending on your flight time, enjoy a final morning on the beach before our team transfers you to the airport. Kwaheri \u2014 until next time!"
+    }
+  ],
+  "whatToBring": [
+    "Swimsuits and beach towels",
+    "Reef-safe sunscreen",
+    "Comfortable walking shoes",
+    "Modest clothing for Stone Town visits",
+    "Waterproof bag for electronics",
+    "Camera",
+    "Hat and sunglasses"
+  ],
+  "pickupInfo": "Airport pickup and drop-off included. Daily hotel pickup for all activities.",
+  "cancellationPolicyShort": "Free cancellation up to 7 days before the start date.",
+  "featured": true,
+  "seo": {
+    "title": "7-Day Zanzibar Island Package | Zanzibar Heavenly",
+    "description": "Experience the best of Zanzibar in 7 days: Prison Island, dolphins, Safari Blue, Stone Town, spice farms, and The Rock Restaurant. All transfers and activities included."
+  },
+  "content": "See the very best of Zanzibar in one week with this carefully crafted island package. Every day brings a new highlight \u2014 from swimming with dolphins at sunrise to dining at Africa\u2019s most iconic ocean-perched restaurant.\n\nThis package packs in all of Zanzibar\u2019s must-do experiences without feeling rushed. You\u2019ll explore Stone Town\u2019s living history, float on impossibly turquoise sandbanks, meet ancient tortoises, snorkel pristine reefs, and discover the spices that put this island on the map centuries ago. All transfers, entrance fees, and specified meals are included \u2014 so you can focus entirely on enjoying the island.\n\nWhether you\u2019re honeymooning, celebrating, or simply craving an unforgettable week of tropical adventure, this package covers all the essentials of the Zanzibar experience."
+}

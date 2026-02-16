@@ -1,0 +1,59 @@
+{
+  "title": "Jozani Forest & The Rock Restaurant",
+  "slug": "jozani-forest",
+  "heroImage": "https://images.unsplash.com/photo-1627492611515-351129aaba34?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1627492611515-351129aaba34?w=800&q=80&fit=crop&ar=4:3",
+    "https://images.unsplash.com/photo-1627492611515-351129aaba34?w=800&q=80&fit=crop&ar=3:2",
+    "https://images.unsplash.com/photo-1627492611515-351129aaba34?w=800&q=80&fit=crop&ar=1:1"
+  ],
+  "location": "Jozani\u2013Chwaka Bay National Park, Central-South Zanzibar",
+  "duration": "Full day (6\u20137 hours)",
+  "priceFrom": 100,
+  "currency": "EUR",
+  "bestTimeToGo": "Year-round; mornings offer the best wildlife activity and cooler temperatures",
+  "difficulty": "Easy",
+  "groupSize": "2\u201312 guests",
+  "highlights": [
+    "Encounter the rare Zanzibar red colobus monkey in its only natural habitat",
+    "Walk elevated boardwalks through ancient mangrove swamps",
+    "Explore one of the last remaining indigenous forests in Zanzibar",
+    "Learn about ongoing conservation efforts from a park ranger",
+    "Spot Sykes monkeys, bush babies, and over 40 species of butterfly",
+    "Dine at The Rock Restaurant, Zanzibar\u2019s most iconic ocean-side eatery"
+  ],
+  "includes": [
+    "Licensed English-speaking guide",
+    "Hotel pickup and drop-off",
+    "National park entrance fee",
+    "Bottled water",
+    "Guided mangrove boardwalk tour",
+    "Visit to The Rock Restaurant"
+  ],
+  "excludes": [
+    "Gratuities",
+    "Personal purchases",
+    "Meals"
+  ],
+  "itinerary": [
+    {
+      "dayTitle": "Forest, Mangroves & The Rock Restaurant",
+      "dayBody": "After a scenic drive through the island\u2019s interior, arrive at Jozani\u2013Chwaka Bay National Park, the only national park in Zanzibar. A park ranger leads you along shaded forest trails where troops of red colobus monkeys swing through the canopy, often coming remarkably close. These playful primates are endemic to Zanzibar\u2014you will not find them anywhere else on Earth. Your guide explains the conservation programme that has brought them back from the brink. Continue onto a raised boardwalk that threads through a tidal mangrove swamp, an extraordinary ecosystem where land and sea blur together. Keep your eyes open for heron, kingfisher, and the occasional monitor lizard. After the forest, drive along the south-east coast to The Rock Restaurant\u2014Zanzibar\u2019s most iconic dining spot, perched on a coral rock in the shallows off Michamvi beach. Depending on the tide you may wade or take a short boat ride to reach it. Enjoy fresh seafood and panoramic ocean views before returning to your hotel."
+    }
+  ],
+  "whatToBring": [
+    "Comfortable closed-toe shoes or sturdy sandals",
+    "Long trousers or light long skirt (for forest trails)",
+    "Insect repellent",
+    "Camera with a zoom lens",
+    "Binoculars (optional)"
+  ],
+  "pickupInfo": "Free pickup from Stone Town, Paje, Jambiani, and surrounding areas. Pickup from Nungwi and Kendwa available for a small surcharge.",
+  "cancellationPolicyShort": "Free cancellation up to 24 hours before the tour.",
+  "featured": false,
+  "seo": {
+    "title": "Jozani Forest Tour \u2013 Red Colobus Monkeys | Zanzibar Heavenly",
+    "description": "Visit Jozani Forest to see Zanzibar\u2019s endemic red colobus monkeys. Walk through ancient mangrove swamps and learn about conservation on this half-day guided tour."
+  },
+  "content": "Jozani\u2013Chwaka Bay National Park is a pocket of primeval wilderness in the heart of Zanzibar, and the only place on the planet where you can see the Zanzibar red colobus monkey in the wild. With fewer than 6,000 individuals remaining, an encounter with these charismatic, rust-furred primates is both a privilege and a reminder of the island\u2019s fragile ecology.\n\nBeyond the monkeys, Jozani is a world unto itself. Towering mahogany and fig trees form a dense canopy overhead while ferns, orchids, and creeping vines carpet the forest floor. The mangrove boardwalk section offers a completely different landscape\u2014an eerie, beautiful tangle of roots and tidal channels that supports an astonishing variety of bird life. This tour is a must for nature lovers and anyone who wants to see a wilder side of Zanzibar away from the beaches."
+}

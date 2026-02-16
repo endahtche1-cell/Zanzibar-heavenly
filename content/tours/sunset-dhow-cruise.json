@@ -1,0 +1,56 @@
+{
+  "title": "Sunset Dhow Cruise",
+  "slug": "sunset-dhow-cruise",
+  "heroImage": "https://images.unsplash.com/photo-1585793753011-397e6e4668d6?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1585793753011-397e6e4668d6?w=800&q=80&fit=crop&ar=4:3",
+    "https://images.unsplash.com/photo-1585793753011-397e6e4668d6?w=800&q=80&fit=crop&ar=3:2",
+    "https://images.unsplash.com/photo-1585793753011-397e6e4668d6?w=800&q=80&fit=crop&ar=1:1"
+  ],
+  "location": "Stone Town Waterfront, Zanzibar",
+  "duration": "Evening (2\u20132.5 hours)",
+  "priceFrom": 50,
+  "currency": "EUR",
+  "bestTimeToGo": "Year-round; dry season (June\u2013October) offers the most vivid sunsets",
+  "difficulty": "Easy",
+  "groupSize": "2\u201312 guests",
+  "highlights": [
+    "Sail along the Stone Town waterfront aboard a beautifully decorated dhow",
+    "Watch the sun set over the Indian Ocean in a blaze of colour",
+    "Sip on fresh tropical cocktails and juices as you cruise",
+    "Enjoy Zanzibari finger-food canap\u00e9s prepared on board",
+    "See the Stone Town skyline silhouetted against the evening sky"
+  ],
+  "includes": [
+    "Hotel pickup and drop-off within Stone Town",
+    "Decorated traditional dhow with cushioned seating",
+    "Welcome drink and two additional cocktails or mocktails",
+    "Selection of Zanzibari canap\u00e9s and fresh fruit",
+    "Onboard crew and captain"
+  ],
+  "excludes": [
+    "Gratuities",
+    "Additional alcoholic beverages",
+    "Professional photography packages"
+  ],
+  "itinerary": [
+    {
+      "dayTitle": "Evening Sunset Sail",
+      "dayBody": "Arrive at the Stone Town waterfront where your dhow is moored, its white sail catching the late-afternoon light. Step aboard and settle into cushion-lined seating as the crew casts off and the sail fills with the evening breeze. A welcome drink\u2014Zanzibar ginger-and-passion-fruit cocktail\u2014is pressed into your hand as the dhow glides past the Old Fort and the House of Wonders. As the sun dips toward the horizon, the sky cycles through shades of amber, rose, and violet while the crew brings out platters of spiced prawns, samosas, and fresh mango. The dhow tacks gently offshore, giving you an unobstructed view of one of the most spectacular sunsets in East Africa. As darkness falls, the lights of Stone Town begin to twinkle and the muezzin\u2019s call drifts across the water, a moment of pure magic before the dhow returns to shore."
+    }
+  ],
+  "whatToBring": [
+    "Light jacket or wrap for the evening breeze",
+    "Camera",
+    "Sunglasses",
+    "Comfortable shoes for boarding"
+  ],
+  "pickupInfo": "Complimentary pickup from hotels within Stone Town. Guests staying outside Stone Town can arrange their own transport to the waterfront meeting point.",
+  "cancellationPolicyShort": "Free cancellation up to 24 hours before the tour.",
+  "featured": false,
+  "seo": {
+    "title": "Sunset Dhow Cruise in Zanzibar | Zanzibar Heavenly",
+    "description": "Sail into the sunset on a traditional Zanzibari dhow from Stone Town. Enjoy cocktails, canap\u00e9s, and panoramic ocean views on this unforgettable evening cruise."
+  },
+  "content": "There are few experiences more romantic than watching the African sun sink into the Indian Ocean from the deck of a traditional wooden dhow. This evening cruise departs from the Stone Town waterfront just as the heat of the day softens and the sky begins its nightly colour show.\n\nWith a cold drink in hand and the gentle rock of the boat beneath you, the worries of everyday life feel a world away. The crew takes care of everything\u2014from the welcome cocktail to the platters of freshly prepared Zanzibari canap\u00e9s\u2014while you sit back and take in the view. As the sun disappears and the first stars appear, the silhouette of Stone Town\u2019s minarets and rooftops against the darkening sky is a sight you will remember long after you leave the island. It is the perfect way to cap off a day of exploring or simply to celebrate being somewhere extraordinary."
+}

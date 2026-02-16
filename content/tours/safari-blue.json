@@ -1,0 +1,59 @@
+{
+  "title": "Safari Blue Day Trip",
+  "slug": "safari-blue",
+  "heroImage": "https://images.unsplash.com/photo-1617032021001-84731af165ab?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1617032021001-84731af165ab?w=800&q=80&fit=crop&ar=4:3",
+    "https://images.unsplash.com/photo-1617032021001-84731af165ab?w=800&q=80&fit=crop&ar=3:2",
+    "https://images.unsplash.com/photo-1617032021001-84731af165ab?w=800&q=80&fit=crop&ar=1:1"
+  ],
+  "location": "Fumba, South-West Zanzibar",
+  "duration": "Full day (8\u20139 hours)",
+  "priceFrom": 90,
+  "currency": "EUR",
+  "bestTimeToGo": "June to October for calmest seas; available year-round except during heavy rains in April\u2013May",
+  "difficulty": "Easy",
+  "groupSize": "2\u201312 guests",
+  "highlights": [
+    "Sail on a traditional wooden dhow through turquoise lagoons",
+    "Snorkel over vibrant coral reefs teeming with tropical fish",
+    "Visit a pristine sandbank that appears only at low tide",
+    "Feast on a freshly grilled seafood lunch on a secluded beach",
+    "Swim in the sheltered mangrove lagoons of Menai Bay"
+  ],
+  "includes": [
+    "Hotel pickup and drop-off",
+    "Traditional dhow sailing",
+    "Snorkelling equipment (mask, fins, snorkel)",
+    "Fresh seafood BBQ lunch with tropical fruit",
+    "Soft drinks, water, and fresh juices throughout the day",
+    "Experienced captain and snorkelling guide"
+  ],
+  "excludes": [
+    "Gratuities",
+    "Alcoholic beverages",
+    "Underwater camera rental",
+    "Travel insurance"
+  ],
+  "itinerary": [
+    {
+      "dayTitle": "Full Day on the Water",
+      "dayBody": "Early morning pickup brings you to the fishing village of Fumba, where your dhow and crew await. Set sail across the calm waters of Menai Bay, watching dolphins play in the wake if you are lucky. The first stop is a shallow coral reef where you can snorkel among parrotfish, angelfish, and sea stars. Back on board, the crew serves fresh fruit as the dhow glides to a disappearing sandbank\u2014a sliver of white sand surrounded by nothing but sea and sky. Spend time swimming, sunbathing, or simply floating in the warm Indian Ocean. After working up an appetite, head to a secluded mangrove island where the crew prepares a lavish beachside barbecue of grilled lobster, octopus, king prawns, and reef fish accompanied by coconut rice, chapati, and tropical fruit. The afternoon is yours to relax on the beach or take a final snorkel before the dhow sails you home as the sun begins its descent."
+    }
+  ],
+  "whatToBring": [
+    "Swimsuit and towel",
+    "Reef-safe sunscreen",
+    "Waterproof bag for electronics",
+    "Hat and sunglasses",
+    "Change of dry clothes"
+  ],
+  "pickupInfo": "Complimentary pickup from Stone Town, Nungwi, Kendwa, Paje, and Jambiani. Pickup times vary by location; you will receive exact timing the evening before.",
+  "cancellationPolicyShort": "Free cancellation up to 24 hours before the tour.",
+  "featured": true,
+  "seo": {
+    "title": "Safari Blue Day Trip | Zanzibar Heavenly",
+    "description": "Spend a full day sailing, snorkelling, and feasting on a traditional dhow. Visit sandbanks, coral reefs, and secluded beaches on Zanzibar\u2019s most iconic ocean excursion."
+  },
+  "content": "Safari Blue is Zanzibar\u2019s most celebrated ocean adventure and for good reason. This full-day excursion aboard a handcrafted wooden dhow takes you into the protected waters of Menai Bay, where the sea shifts between impossible shades of blue and green.\n\nThe day unfolds at island pace: morning snorkelling over colourful coral gardens, a barefoot stroll on a sandbank that vanishes with the rising tide, and an extravagant seafood feast cooked right on the beach by your crew. There is no itinerary to rush through\u2014just sun, sea, and the gentle creak of the dhow\u2019s sail. Whether you are an avid snorkeller or someone who simply wants to float in warm, crystal-clear water with a coconut in hand, Safari Blue delivers one of those rare travel days that stays with you long after the tan has faded."
+}

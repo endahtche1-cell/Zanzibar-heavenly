@@ -1,0 +1,51 @@
+{
+  "title": "Paje Surf Apartment",
+  "slug": "paje-surf-apartment",
+  "heroImage": "https://images.unsplash.com/photo-1688904851329-c41d0a57f536?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1688904851329-c41d0a57f536?w=800&q=80&fit=crop&ar=4:3",
+    "https://images.unsplash.com/photo-1688904851329-c41d0a57f536?w=800&q=80&fit=crop&ar=3:2",
+    "https://images.unsplash.com/photo-1688904851329-c41d0a57f536?w=800&q=80&fit=crop&ar=1:1"
+  ],
+  "area": "Paje",
+  "type": "apartment",
+  "bedrooms": 1,
+  "sleeps": 2,
+  "priceFrom": 55,
+  "currency": "EUR",
+  "amenities": [
+    "Wi-Fi",
+    "Ceiling fan and portable AC unit",
+    "Kitchenette with fridge, hotplate, and French press",
+    "Shared rooftop terrace",
+    "Outdoor shower",
+    "Bicycle included",
+    "Kite and surf storage room",
+    "Mosquito nets",
+    "Beach towels",
+    "Hammock on private balcony",
+    "Weekly housekeeping"
+  ],
+  "nearby": [
+    "Paje beach and kite lagoon (3 min walk)",
+    "Kitesurfing schools (2 min walk)",
+    "Mr Kahawa coffee shop (1 min walk)",
+    "Local restaurants and beach bars (5 min walk)",
+    "Jozani Forest (20 min drive)",
+    "Jambiani village (10 min bike ride)"
+  ],
+  "houseRules": [
+    "No smoking indoors",
+    "Kite and surf equipment must be stored in the designated room",
+    "Shared spaces to be kept tidy",
+    "No loud music after 10 PM",
+    "Maximum 2 guests"
+  ],
+  "bookingNotes": "Minimum stay of 2 nights. Check-in from 1 PM, check-out by 10 AM. Weekly and monthly rates available for long-term stays. Airport transfer available for $30 each way. Kitesurfing lesson packages can be arranged through the apartment.",
+  "featured": false,
+  "seo": {
+    "title": "Paje Surf Apartment | Zanzibar Heavenly",
+    "description": "Affordable beachside apartment in Paje, Zanzibar\u2019s kitesurfing capital. Includes a bicycle, kite storage, and is steps from the lagoon. From $55/night."
+  },
+  "content": "This bright, breezy apartment is the ideal base for kitesurfers, budget-conscious travellers, and anyone drawn to Paje\u2019s laid-back, salt-in-your-hair energy. Located on a quiet lane just a three-minute walk from the beach and the famous Paje kite lagoon, it puts you right in the heart of Zanzibar\u2019s most vibrant beach-sport scene.\n\nThe space is simple but thoughtfully designed: a comfortable queen bed with crisp white linen, a compact kitchenette for morning coffee and quick meals, and a private balcony with a hammock that catches the ocean breeze. A complimentary bicycle makes it easy to explore the coast\u2014ride south to the seaweed-farming village of Jambiani or north to the beach bars of Bwejuu. The shared rooftop terrace is a social hub at sunset, where fellow travellers swap stories over cold Kilimanjaro beers. It is not luxury, but it is exactly what Paje is about: sand between your toes, wind in the sail, and not a care in the world."
+}

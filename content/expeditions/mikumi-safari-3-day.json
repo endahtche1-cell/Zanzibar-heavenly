@@ -1,0 +1,77 @@
+{
+  "title": "3-Day Mikumi Safari with Maasai Visit",
+  "slug": "mikumi-safari-3-day",
+  "heroImage": "https://images.unsplash.com/photo-1634662052101-78f72e8307be?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1634662052101-78f72e8307be?w=800&q=80&fit=crop&ar=4:3",
+    "https://images.unsplash.com/photo-1634662052101-78f72e8307be?w=800&q=80&fit=crop&ar=3:2",
+    "https://images.unsplash.com/photo-1634662052101-78f72e8307be?w=800&q=80&fit=crop&ar=1:1"
+  ],
+  "location": "Zanzibar \u2192 Mikumi National Park, Tanzania",
+  "duration": "3 days / 1 night",
+  "priceFrom": 600,
+  "currency": "EUR",
+  "bestTimeToGo": "June to October for dry season; animals gather around water sources making them easier to spot",
+  "difficulty": "Moderate",
+  "groupSize": "2\u20138 guests",
+  "highlights": [
+    "Game drives through Mikumi National Park \u2014 elephants, giraffes, lions, zebras",
+    "Travel by ferry and Tanzania\u2019s express electric train through the countryside",
+    "Visit an authentic Maasai village and learn about their ancient culture",
+    "Overnight stay in safari accommodation",
+    "All food, drinks, park entrance fees, and transport from Zanzibar included",
+    "Professional English-speaking safari guide"
+  ],
+  "includes": [
+    "Hotel pickup in Zanzibar",
+    "Ferry ticket Zanzibar to Dar es Salaam",
+    "Express electric train Dar es Salaam to Morogoro",
+    "All ground transportation and safari vehicle",
+    "Mikumi National Park entrance fees",
+    "1 night safari lodge accommodation",
+    "All meals (lunch Day 1, dinner, breakfast Day 2, lunch Day 2)",
+    "Drinking water and soft drinks",
+    "Professional English-speaking safari guide/driver",
+    "Maasai village visit and cultural experience",
+    "Return transfers to Zanzibar"
+  ],
+  "excludes": [
+    "International flights",
+    "Travel and safari insurance",
+    "Alcoholic beverages",
+    "Gratuities for guide and lodge staff",
+    "Personal expenses",
+    "Zanzibar hotel accommodation"
+  ],
+  "itinerary": [
+    {
+      "dayTitle": "Day 1 \u2014 Zanzibar to Mikumi \u2014 Game Drive Adventure",
+      "dayBody": "05:00 AM \u2014 Early hotel pickup in Zanzibar and transfer to the ferry terminal. 07:00 AM \u2014 Ferry departure across the Indian Ocean to Dar es Salaam. 08:30 AM \u2014 Arrive in Dar and transfer to the electric train station. Board the express electric train for a comfortable 1.5-hour journey to Morogoro, passing through rural Tanzania\u2019s beautiful countryside. Stop for lunch in Morogoro to recharge. 11:15 AM \u2014 Drive to Mikumi National Park, arriving in time for an afternoon game drive through this incredible park. Spot elephants, giraffes, lions, zebras, hippos, wildebeest, and much more as the African sun sets over the savannah. Check into your safari lodge for dinner and overnight."
+    },
+    {
+      "dayTitle": "Day 2 \u2014 Morning Game Drive & Maasai Village",
+      "dayBody": "Rise early for a sunrise game drive when animals are most active. Explore different sections of the park, following your expert guide\u2019s knowledge of the best spots. After a bush breakfast, visit a local Maasai village to learn about their ancient pastoral culture, traditional homes, and way of life. Enjoy lunch before beginning the return journey to Dar es Salaam via Morogoro."
+    },
+    {
+      "dayTitle": "Day 3 \u2014 Return to Zanzibar",
+      "dayBody": "After breakfast, take the express train back to Dar es Salaam and connect with the ferry back to Zanzibar. Transfer to your hotel. Your safari adventure is complete \u2014 welcome back to island life!"
+    }
+  ],
+  "whatToBring": [
+    "Binoculars",
+    "Camera with zoom lens",
+    "Warm layer for early morning game drives",
+    "Comfortable neutral-coloured clothing",
+    "Sunscreen and hat",
+    "Insect repellent",
+    "Small daypack"
+  ],
+  "pickupInfo": "Early morning hotel pickup in Zanzibar included. Exact time confirmed the evening before based on hotel location.",
+  "cancellationPolicyShort": "Free cancellation up to 7 days before the start date. 50% refund for cancellations 3\u20136 days before.",
+  "featured": true,
+  "seo": {
+    "title": "3-Day Mikumi Safari from Zanzibar | Zanzibar Heavenly",
+    "description": "Experience Tanzania\u2019s incredible wildlife on a 3-day safari to Mikumi National Park from Zanzibar. Includes game drives, Maasai village visit, all meals and transport."
+  },
+  "content": "Combine the tropical paradise of Zanzibar with the wild heart of Tanzania on this action-packed 3-day safari. Starting from your Zanzibar hotel, you\u2019ll travel by ferry and express train through the Tanzanian mainland to reach Mikumi National Park \u2014 one of Tanzania\u2019s most accessible and wildlife-rich parks.\n\nMikumi sits in the shadow of the Uluguru Mountains and shares an unfenced border with the Selous Game Reserve, making it a corridor for some of Africa\u2019s greatest wildlife. Expect to see elephants, giraffes, lions, zebras, hippos, wildebeest, and buffalo, all from the comfort of your safari vehicle with an expert guide at the wheel.\n\nThe journey itself is part of the adventure \u2014 the express electric train ride through rural Tanzania gives you a window into mainland life that most Zanzibar visitors never experience. Add a visit to an authentic Maasai village and you have a safari experience that combines wildlife, culture, and adventure. Everything is included: food, drinks, park fees, accommodation, and all transport from Zanzibar and back."
+}

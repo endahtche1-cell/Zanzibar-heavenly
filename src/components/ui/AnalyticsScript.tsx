@@ -1,0 +1,38 @@
+import Script from 'next/script'
+
+export default function AnalyticsScript() {
+  const gaId = process.env.NEXT_PUBLIC_GA_ID
+  const plausibleDomain = process.env.NEXT_PUBLIC_PLAUSIBLE_DOMAIN
+
+  return (
+    <>
+      {/* Google Analytics */}
+      {gaId && (
+        <>
+          <Script
+            src={`https://www.googletagmanager.com/gtag/js?id=${gaId}`}
+            strategy="afterInteractive"
+          />
+          <Script id="gtag-init" strategy="afterInteractive">
+            {`
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', '${gaId}');
+            `}
+          </Script>
+        </>
+      )}
+
+      {/* Plausible */}
+      {plausibleDomain && (
+        <Script
+          defer
+          data-domain={plausibleDomain}
+          src="https://plausible.io/js/script.js"
+          strategy="afterInteractive"
+        />
+      )}
+    </>
+  )
+}

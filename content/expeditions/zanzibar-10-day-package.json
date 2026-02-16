@@ -1,0 +1,106 @@
+{
+  "title": "10-Day Ultimate Zanzibar Experience",
+  "slug": "zanzibar-10-day-package",
+  "heroImage": "https://images.unsplash.com/photo-1734343470199-dcef3f2104af?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1734343470199-dcef3f2104af?w=800&q=80&fit=crop&ar=4:3",
+    "https://images.unsplash.com/photo-1734343470199-dcef3f2104af?w=800&q=80&fit=crop&ar=3:2",
+    "https://images.unsplash.com/photo-1734343470199-dcef3f2104af?w=800&q=80&fit=crop&ar=1:1"
+  ],
+  "location": "All around Zanzibar Island",
+  "duration": "10 days / 9 nights",
+  "priceFrom": 950,
+  "currency": "EUR",
+  "bestTimeToGo": "June to October for dry season; also excellent December to February",
+  "difficulty": "Easy",
+  "groupSize": "2\u201310 guests",
+  "highlights": [
+    "Stone Town city tour with shopping and cultural immersion",
+    "Prison Island giant tortoises and Nakupenda sandbank lunch",
+    "Le Saint Tropez Beach Club experience",
+    "Swim with wild dolphins and snorkel at Mnemba Beach",
+    "Swim with sea turtles at Sallaam Cave",
+    "Visit the stunning Mtende Beach on the south coast",
+    "Dine at the iconic Rock Restaurant",
+    "Sunset and beach party at Kae Funk beach",
+    "Full-day Safari Blue dhow cruise with seafood lunch",
+    "Airport transfers included throughout"
+  ],
+  "includes": [
+    "Airport pickup and drop-off transfers",
+    "All ground transportation between activities",
+    "All entrance fees and activity costs",
+    "Seafood lunches on tour days",
+    "English-speaking guide throughout",
+    "Boat transfers for all water activities",
+    "Snorkelling equipment"
+  ],
+  "excludes": [
+    "Accommodation (hotel booking assistance available)",
+    "International flights",
+    "Meals not specified in itinerary",
+    "Gratuities",
+    "Personal expenses and shopping",
+    "Travel insurance",
+    "Alcoholic beverages"
+  ],
+  "itinerary": [
+    {
+      "dayTitle": "Day 1 \u2014 Arrival",
+      "dayBody": "Welcome to Zanzibar! Our team picks you up from Abeid Amani Karume International Airport and transfers you to your hotel. Settle in and enjoy your first evening on the Spice Island at your own pace."
+    },
+    {
+      "dayTitle": "Day 2 \u2014 Stone Town, Prison Island & Nakupenda",
+      "dayBody": "Start with a morning walking tour of historic Stone Town \u2014 explore the winding alleyways, visit the Old Fort, admire the famous carved doors, and browse local shops. After lunch, board a boat to Prison Island to meet the giant Aldabra tortoises. Then cruise to Nakupenda sandbank for a seafood lunch on a pristine strip of sand surrounded by turquoise water."
+    },
+    {
+      "dayTitle": "Day 3 \u2014 Le Saint Tropez Beach Club",
+      "dayBody": "A day of pure relaxation at Le Saint Tropez Beach Club. Enjoy world-class beach facilities, swimming pools, cocktails, and a beautiful stretch of white-sand beach. This is your chance to unwind and soak in the island atmosphere."
+    },
+    {
+      "dayTitle": "Day 4 \u2014 Dolphins & Mnemba Snorkelling",
+      "dayBody": "An early morning start to catch the dolphins at their most active. Head to Mnemba Beach where you\u2019ll board a boat and swim alongside wild bottlenose dolphins in the open ocean. Afterwards, snorkel the incredible coral reefs surrounding Mnemba Atoll, home to sea turtles, tropical fish, and vibrant coral gardens."
+    },
+    {
+      "dayTitle": "Day 5 \u2014 South Coast: Sea Turtles & Mtende Beach",
+      "dayBody": "Explore Zanzibar\u2019s wild south coast. Visit Sallaam Cave to swim with sea turtles in a crystal-clear natural pool. Then head to Mtende Beach \u2014 one of the most beautiful and secluded beaches on the island, with powder-white sand and turquoise waters stretching as far as the eye can see."
+    },
+    {
+      "dayTitle": "Day 6 \u2014 Rest Day",
+      "dayBody": "A free day to rest and recharge. Relax at your hotel, explore the local area on your own, visit the beach, or book a spa treatment. Your guide is available if you need recommendations or want to arrange anything spontaneous."
+    },
+    {
+      "dayTitle": "Day 7 \u2014 Rest Day",
+      "dayBody": "Another day at your own pace. Perfect for sleeping in, catching up on reading, or simply enjoying the rhythm of island life. Optional activities can be arranged on request."
+    },
+    {
+      "dayTitle": "Day 8 \u2014 The Rock Restaurant, Kae Funk & Shanga",
+      "dayBody": "Visit Shanga Restaurant for a unique dining experience that supports local artisans with disabilities. Later, head south to the iconic Rock Restaurant, perched on a rock in the Indian Ocean \u2014 one of the most photographed restaurants in Africa. End the day at Kae Funk beach for sunset drinks and a legendary beach party."
+    },
+    {
+      "dayTitle": "Day 9 \u2014 Safari Blue",
+      "dayBody": "The grand finale: a full-day Safari Blue dhow cruise. Sail on a traditional wooden dhow through the turquoise waters of Menai Bay. Visit sandbanks, snorkel over coral reefs, swim in the sheltered lagoon, and feast on a freshly prepared seafood lunch on a secluded island. This is Zanzibar\u2019s most iconic ocean excursion."
+    },
+    {
+      "dayTitle": "Day 10 \u2014 Departure",
+      "dayBody": "Your Zanzibar adventure comes to an end. We pick you up from your hotel and transfer you to the airport in time for your flight. Goodbye and we hope to see you again \u2014 Kwaheri!"
+    }
+  ],
+  "whatToBring": [
+    "Swimsuits and beach towels",
+    "Reef-safe sunscreen",
+    "Comfortable walking shoes",
+    "Modest clothing for Stone Town and village visits",
+    "Waterproof bag for electronics",
+    "Camera",
+    "Hat and sunglasses"
+  ],
+  "pickupInfo": "Airport pickup and drop-off included. Daily hotel pickup for all activities.",
+  "cancellationPolicyShort": "Free cancellation up to 7 days before the start date.",
+  "featured": true,
+  "seo": {
+    "title": "10-Day Ultimate Zanzibar Experience | Zanzibar Heavenly",
+    "description": "The complete Zanzibar experience over 10 days: Stone Town, Prison Island, dolphins, Safari Blue, The Rock Restaurant, south coast beaches, and more. All transfers included."
+  },
+  "content": "This is the ultimate Zanzibar package \u2014 10 days of carefully curated experiences that take you from the historic alleyways of Stone Town to the untouched beaches of the south coast, from swimming with dolphins at dawn to watching the sunset with a cocktail at a legendary beach club.\n\nEvery day brings a new adventure: one day you\u2019re feeding century-old tortoises on Prison Island and lunching on a disappearing sandbank; the next you\u2019re diving into a crystal-clear cave to swim alongside sea turtles. You\u2019ll dine at The Rock Restaurant \u2014 literally perched on a rock in the Indian Ocean \u2014 party at the famous Kae Funk beach, and sail on a traditional dhow through the impossibly blue waters of Menai Bay.\n\nBut it\u2019s not all go-go-go. We\u2019ve built in rest days because Zanzibar is also about slowing down, feeling the warm breeze, and letting the island work its magic. This package is designed for travellers who want to see and do it all, but at island pace."
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Ocean Breeze Villa",
+  "slug": "ocean-breeze-villa",
+  "heroImage": "https://images.unsplash.com/photo-1673964566152-2aee6bc89929?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1673964566152-2aee6bc89929?w=800&q=80&fit=crop&ar=4:3",
+    "https://images.unsplash.com/photo-1673964566152-2aee6bc89929?w=800&q=80&fit=crop&ar=3:2",
+    "https://images.unsplash.com/photo-1673964566152-2aee6bc89929?w=800&q=80&fit=crop&ar=1:1"
+  ],
+  "area": "Matemwe",
+  "type": "villa",
+  "bedrooms": 3,
+  "sleeps": 6,
+  "priceFrom": 180,
+  "currency": "EUR",
+  "amenities": [
+    "Wi-Fi",
+    "Air conditioning",
+    "Private infinity pool",
+    "Fully equipped kitchen",
+    "Daily housekeeping",
+    "Ocean-view terrace",
+    "Outdoor rain shower",
+    "BBQ area",
+    "Satellite TV",
+    "Safe box",
+    "Mosquito nets",
+    "Beach towels and sun loungers"
+  ],
+  "nearby": [
+    "Matemwe beach (1 min walk)",
+    "Local restaurants and bars (5 min walk)",
+    "Mnemba Atoll snorkelling boats (10 min walk)",
+    "Matemwe village market (15 min walk)",
+    "Kiwengwa caves (20 min drive)"
+  ],
+  "houseRules": [
+    "No smoking indoors",
+    "No parties or events without prior arrangement",
+    "Quiet hours 10 PM \u2013 7 AM",
+    "Maximum 6 guests",
+    "Pets not permitted"
+  ],
+  "bookingNotes": "Minimum stay of 3 nights. Check-in from 2 PM, check-out by 11 AM. Airport transfers can be arranged for $35 each way. A private chef service is available on request at an additional cost.",
+  "featured": true,
+  "seo": {
+    "title": "Ocean Breeze Villa \u2013 Matemwe Beach | Zanzibar Heavenly",
+    "description": "Stay in a private 3-bedroom villa on Matemwe beach with an infinity pool, ocean views, and direct beach access. From $180/night."
+  },
+  "content": "Perched on a low coral cliff overlooking the turquoise waters of Matemwe, Ocean Breeze Villa is a private sanctuary where the Indian Ocean is the first thing you see each morning and the last thing you hear each night. This beautifully designed three-bedroom villa blends contemporary comfort with traditional Zanzibari materials\u2014coral-stone walls, makuti-thatched roofing, and hand-carved wooden accents throughout.\n\nThe heart of the villa is its open-air living area that flows seamlessly onto a wide terrace and infinity pool, all facing the sea. Wake to the sound of waves, take your morning coffee on the terrace as fishing dhows glide past, and spend lazy afternoons floating in the pool while the tide shifts colours below. The fully equipped kitchen is perfect for self-catering, though many guests opt for the private chef service\u2014fresh lobster and coconut curry under the stars is hard to beat. Matemwe\u2019s quiet, unspoiled beach is just steps away, and boats to Mnemba Atoll depart from the shore nearby."
+}

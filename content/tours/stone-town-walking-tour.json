@@ -1,0 +1,57 @@
+{
+  "title": "Stone Town Walking Tour",
+  "slug": "stone-town-walking-tour",
+  "heroImage": "https://images.unsplash.com/photo-1695643875095-f5620748605d?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1695643875095-f5620748605d?w=800&q=80&fit=crop&ar=4:3",
+    "https://images.unsplash.com/photo-1695643875095-f5620748605d?w=800&q=80&fit=crop&ar=3:2",
+    "https://images.unsplash.com/photo-1695643875095-f5620748605d?w=800&q=80&fit=crop&ar=1:1"
+  ],
+  "location": "Stone Town, Zanzibar",
+  "duration": "Half day (3\u20134 hours)",
+  "priceFrom": 75,
+  "currency": "EUR",
+  "bestTimeToGo": "Year-round, mornings are cooler and ideal for walking",
+  "difficulty": "Easy",
+  "groupSize": "2\u201312 guests",
+  "highlights": [
+    "Explore the UNESCO World Heritage labyrinth of Stone Town",
+    "Visit the House of Wonders and the Old Fort",
+    "Discover the historic slave market site and Anglican Cathedral",
+    "Wander through Darajani Market bursting with tropical fruit and spices",
+    "Admire intricately carved Zanzibari doors dating back centuries"
+  ],
+  "includes": [
+    "Licensed English-speaking guide",
+    "Hotel pickup and drop-off within Stone Town",
+    "Bottled water",
+    "Entrance fees to all listed sites",
+    "Fresh juice stop at a local caf\u00e9"
+  ],
+  "excludes": [
+    "Gratuities",
+    "Personal purchases and souvenirs",
+    "Meals beyond the included juice stop"
+  ],
+  "itinerary": [
+    {
+      "dayTitle": "Morning Walking Tour",
+      "dayBody": "Your guide meets you at your hotel and leads you into the winding alleyways of Stone Town. Begin at the Old Fort and House of Wonders on the waterfront, then weave through the old quarter past the Sultan\u2019s Palace and the Persian baths. Stop at the former slave market, now home to the Anglican Cathedral, for a moving historical account. Continue to Darajani Market where vendors sell everything from fresh tuna to jackfruit. Pause for a cold sugar-cane juice before visiting some of the town\u2019s most famous carved doors. The tour ends back at the waterfront where you can linger at Forodhani Gardens."
+    }
+  ],
+  "whatToBring": [
+    "Comfortable walking shoes",
+    "Modest clothing that covers shoulders and knees",
+    "Sunscreen and a hat",
+    "Camera",
+    "Small cash for souvenirs or tips"
+  ],
+  "pickupInfo": "Complimentary pickup from any hotel within Stone Town. For hotels outside Stone Town, pickup can be arranged for an additional fee.",
+  "cancellationPolicyShort": "Free cancellation up to 24 hours before the tour.",
+  "featured": true,
+  "seo": {
+    "title": "Stone Town Walking Tour | Zanzibar Heavenly",
+    "description": "Walk the UNESCO World Heritage streets of Stone Town with a local guide. Visit the House of Wonders, Darajani Market, and centuries-old carved doors on this half-day tour."
+  },
+  "content": "Step back in time on a guided walk through Stone Town, the cultural heart of Zanzibar and a UNESCO World Heritage Site. This ancient quarter is a living tapestry of Swahili, Arab, Persian, Indian, and European influences\u2014visible in every carved doorway, crumbling palace, and bustling market stall.\n\nYour knowledgeable local guide will lead you through a maze of narrow alleyways where the scent of cloves and cardamom drifts from open doorways, past mosques and Hindu temples standing side by side, and into courtyards where generations of traders have done business. You will hear stories of sultans and slaves, merchants and explorers, gaining a deep understanding of the island\u2019s layered history. The tour is designed at a relaxed pace with plenty of time for photographs, questions, and spontaneous discoveries around every corner."
+}

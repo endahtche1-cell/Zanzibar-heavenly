@@ -1,0 +1,34 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-next-app@latest:*)",
+      "Bash(npm init:*)",
+      "Bash(npm install:*)",
+      "Bash(for f in content/*/*.json)",
+      "Bash(do node -e \"JSON.parse\\(require\\(''fs''\\).readFileSync\\(''$f'',''utf8''\\)\\)\")",
+      "Bash(echo:*)",
+      "Bash(done)",
+      "Bash(npm run build:*)",
+      "Bash(lsof:*)",
+      "Bash(curl:*)",
+      "Bash(kill:*)",
+      "Bash(npm run dev:*)",
+      "Bash(node -e:*)",
+      "Bash(osascript:*)",
+      "Bash(# Check if the user might have the logo elsewhere - look for any zanzibar/parrot/bird related images mdfind \"\"kMDItemFSName == ''*zanzibar*'' && kMDItemContentTypeTree == ''public.image''\"\")",
+      "Bash(head -10 mdfind \"kMDItemFSName == ''*heavenly*'' && kMDItemContentTypeTree == ''public.image''\")",
+      "Bash(head -10 mdfind \"kMDItemFSName == ''*parrot*'' && kMDItemContentTypeTree == ''public.image''\")",
+      "Bash(mdfind:*)",
+      "Bash(ls:*)",
+      "Bash(xargs:*)",
+      "Bash(# Also check WhatsApp temp/documents find \"\"/Users/ETche/Library/Containers/net.whatsapp.WhatsApp/Data/tmp/documents/\"\" -type f \\\\\\( -name \"\"*.jpg\"\" -o -name \"\"*.png\"\" \\\\\\) -print0 | xargs -0 ls -lt)",
+      "Bash(python3:*)",
+      "Bash(pgrep:*)",
+      "Bash(for f in tours/*.json expeditions/*.json accommodation/*.json)",
+      "Bash(do sed -i '' 's/\"\"currency\"\": \"\"USD\"\"/\"\"currency\"\": \"\"EUR\"\"/g' \"$f\")",
+      "WebFetch(domain:unsplash.com)",
+      "WebFetch(domain:images.unsplash.com)",
+      "WebFetch(domain:www.originaltravel.co.uk)"
+    ]
+  }
+}

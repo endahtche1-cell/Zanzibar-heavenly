@@ -1,0 +1,51 @@
+{
+  "title": "Matemwe Boutique Retreat",
+  "slug": "matemwe-boutique-retreat",
+  "heroImage": "https://images.unsplash.com/photo-1764705639956-801d5b6ef197?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1764705639956-801d5b6ef197?w=800&q=80&fit=crop&ar=4:3",
+    "https://images.unsplash.com/photo-1764705639956-801d5b6ef197?w=800&q=80&fit=crop&ar=3:2",
+    "https://images.unsplash.com/photo-1764705639956-801d5b6ef197?w=800&q=80&fit=crop&ar=1:1"
+  ],
+  "area": "Matemwe",
+  "type": "hotel",
+  "bedrooms": 1,
+  "sleeps": 2,
+  "priceFrom": 140,
+  "currency": "EUR",
+  "amenities": [
+    "Wi-Fi",
+    "Air conditioning",
+    "Garden swimming pool",
+    "On-site restaurant serving Swahili and international cuisine",
+    "Beach bar",
+    "Spa treatments available",
+    "Snorkelling equipment for guest use",
+    "Yoga deck with scheduled classes",
+    "Daily housekeeping",
+    "In-room safe",
+    "Mosquito nets",
+    "Complimentary breakfast",
+    "Library and board games lounge"
+  ],
+  "nearby": [
+    "Matemwe beach (2 min walk)",
+    "Mnemba Atoll boat departures (5 min walk)",
+    "Local fish market (10 min walk)",
+    "Kiwengwa village (15 min drive)",
+    "Jozani Forest (40 min drive)"
+  ],
+  "houseRules": [
+    "No smoking indoors",
+    "Quiet hours 10 PM \u2013 7 AM",
+    "Respectful swimwear outside the pool and beach areas",
+    "Children welcome; babysitting available on request"
+  ],
+  "bookingNotes": "Check-in from 2 PM, check-out by 11 AM. Airport transfer available for $35 each way. The retreat can arrange snorkelling trips to Mnemba Atoll, diving excursions, and fishing charters directly from the beach.",
+  "featured": false,
+  "seo": {
+    "title": "Matemwe Boutique Retreat | Zanzibar Heavenly",
+    "description": "Intimate boutique hotel on Matemwe\u2019s quiet coast with garden pool, yoga classes, and easy access to Mnemba Atoll. From $140/night with breakfast."
+  },
+  "content": "Matemwe Boutique Retreat is a small, soulful hotel tucked into tropical gardens on one of Zanzibar\u2019s most peaceful stretches of coast. With just twelve rooms, the atmosphere is intimate and unhurried\u2014the kind of place where the staff know your name by the second morning and your coffee arrives exactly how you like it.\n\nRooms are housed in whitewashed coral-stone cottages with makuti-thatched roofs, each opening onto a private veranda framed by frangipani and bougainvillea. The design is a refined take on Swahili coastal style: hand-carved bed frames, woven sisal rugs, and driftwood accents, all kept cool by air conditioning and ceiling fans. Mornings begin with yoga on the wooden deck overlooking the garden, followed by a leisurely breakfast of tropical fruit, freshly baked bread, and Zanzibari coffee. The pool is shaded by palms, and the beach\u2014a wide sweep of white sand that stretches for miles\u2014is a two-minute barefoot walk away. Boats to Mnemba Atoll leave from the shore right in front of the retreat, making this the perfect base for serious snorkellers and divers."
+}

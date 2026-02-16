@@ -1,0 +1,76 @@
+{
+  "title": "Multi-Day Island Hopping Adventure",
+  "slug": "island-hopping-adventure",
+  "heroImage": "https://images.unsplash.com/photo-1559934303-856aae38610f?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1559934303-856aae38610f?w=800&q=80&fit=crop&ar=4:3",
+    "https://images.unsplash.com/photo-1559934303-856aae38610f?w=800&q=80&fit=crop&ar=3:2",
+    "https://images.unsplash.com/photo-1559934303-856aae38610f?w=800&q=80&fit=crop&ar=1:1"
+  ],
+  "location": "Zanzibar Archipelago \u2013 Unguja, Pemba & surrounding islands",
+  "duration": "4 days / 3 nights",
+  "priceFrom": 680,
+  "currency": "EUR",
+  "bestTimeToGo": "June to October for calm seas and clear skies; also excellent December to February",
+  "difficulty": "Easy",
+  "groupSize": "2\u201312 guests",
+  "highlights": [
+    "Explore three distinct islands across the Zanzibar Archipelago",
+    "Sleep in a beachfront banda on an uninhabited sandbank island",
+    "Snorkel the pristine reefs of Pemba\u2019s Misali Island marine sanctuary",
+    "Kayak through turquoise mangrove channels at dawn",
+    "Enjoy freshly caught seafood prepared by your private crew each evening",
+    "Witness bioluminescent plankton lighting up the night sea"
+  ],
+  "includes": [
+    "All inter-island boat transfers by dhow and speedboat",
+    "3 nights\u2019 accommodation (mix of beach lodge and island camping banda)",
+    "All meals \u2013 breakfast, lunch, and dinner with fresh seafood",
+    "Professional English-speaking expedition leader",
+    "Snorkelling and kayaking equipment",
+    "Drinking water, soft drinks, and fresh juices",
+    "Marine park fees and all permits"
+  ],
+  "excludes": [
+    "International and domestic flights",
+    "Travel and dive insurance",
+    "Alcoholic beverages",
+    "Gratuities for crew and guide",
+    "Personal expenses and souvenirs"
+  ],
+  "itinerary": [
+    {
+      "dayTitle": "Day 1 \u2013 Stone Town to Changuu & Chapwani Islands",
+      "dayBody": "Meet your expedition leader at the Stone Town waterfront after breakfast. Board a traditional dhow and sail to Changuu (Prison Island) where giant Aldabra tortoises roam freely\u2014some over 100 years old. After a guided walk and snorkel stop, continue to the forested Chapwani Island for a beachfront lunch of grilled octopus and coconut rice. Spend the afternoon snorkelling the island\u2019s house reef before settling into your seaside lodge for sundowners and a Swahili dinner under the stars."
+    },
+    {
+      "dayTitle": "Day 2 \u2013 Sandbank Camp & Bioluminescence",
+      "dayBody": "A speedboat takes you south to the Menai Bay Conservation Area. Stop at a disappearing sandbank where the crew sets up a private beach camp with shaded bandas. Spend the morning swimming, snorkelling, and exploring tidal pools. After a lavish seafood barbecue lunch, kayak through the nearby mangrove channels spotting herons and kingfishers. As night falls, wade into the shallows to witness bioluminescent plankton\u2014every movement of your hand creates trails of blue-green light. Sleep in your beachside banda with the sound of gentle waves."
+    },
+    {
+      "dayTitle": "Day 3 \u2013 Pemba Island & Misali Reef",
+      "dayBody": "An early morning speedboat crossing brings you to Pemba, Zanzibar\u2019s wilder, less-visited sister island. Head straight to Misali Island, a marine sanctuary with some of the best coral in East Africa. Snorkel over walls of staghorn coral, giant clams, and schools of barracuda. After lunch on Misali\u2019s pristine beach, visit a local Pemba village to meet clove farmers and learn about the island\u2019s unique voodoo traditions. Overnight at a hillside lodge overlooking the Pemba Channel."
+    },
+    {
+      "dayTitle": "Day 4 \u2013 Pemba Mangroves & Return",
+      "dayBody": "Start the final morning with a dawn kayak through Pemba\u2019s mangrove forests, one of the most biodiverse coastal ecosystems in the region. Spot mudskippers, fiddler crabs, and wading birds in the golden morning light. Return to the lodge for breakfast and a final swim before transferring back to Zanzibar by speedboat. Arrive in Stone Town by early afternoon with time to explore Forodhani Night Market on your own."
+    }
+  ],
+  "whatToBring": [
+    "Quick-dry clothing and swimwear",
+    "Reef-safe sunscreen and insect repellent",
+    "Waterproof bag for electronics",
+    "Headtorch or small flashlight",
+    "Light sleeping bag liner (for sandbank camping)",
+    "Sturdy water shoes",
+    "Binoculars and camera with waterproof casing"
+  ],
+  "pickupInfo": "Complimentary pickup from any Stone Town hotel on Day 1 at 8:00 AM. Transfer back to Stone Town included on Day 4. Airport transfers can be arranged on request.",
+  "cancellationPolicyShort": "Free cancellation up to 24 hours before the tour.",
+  "featured": true,
+  "seo": {
+    "title": "Island Hopping Adventure \u2013 4 Days | Zanzibar Heavenly",
+    "description": "Explore the Zanzibar Archipelago on a 4-day island hopping expedition. Snorkel Pemba\u2019s Misali reef, camp on a sandbank, and kayak through mangroves."
+  },
+  "content": "This four-day expedition takes you far beyond the tourist trail and deep into the Zanzibar Archipelago\u2014a scattering of coral islands, sandbars, and reef systems stretching across some of the most beautiful water in the Indian Ocean. Each day brings a completely different island landscape, from the forested shores of Chapwani to the raw, uninhabited sandbanks of Menai Bay and the wild green hills of Pemba.\n\nYour small group travels by traditional dhow and speedboat with an experienced expedition leader who knows these waters intimately. Accommodation ranges from a comfortable beachfront lodge to a simple banda pitched on a sandbank under a blanket of stars. Meals are a highlight in themselves\u2014your crew catches and grills the freshest seafood imaginable, served with Swahili staples and tropical fruit. This is Zanzibar at its most adventurous and authentic, designed for travellers who want more than a beach holiday."
+}

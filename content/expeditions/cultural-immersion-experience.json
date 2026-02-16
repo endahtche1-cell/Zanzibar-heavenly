@@ -1,0 +1,71 @@
+{
+  "title": "Cultural Immersion Experience",
+  "slug": "cultural-immersion-experience",
+  "heroImage": "https://images.unsplash.com/photo-1615884764168-3b5d41db1f9f?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1615884764168-3b5d41db1f9f?w=800&q=80&fit=crop&ar=4:3",
+    "https://images.unsplash.com/photo-1615884764168-3b5d41db1f9f?w=800&q=80&fit=crop&ar=3:2",
+    "https://images.unsplash.com/photo-1615884764168-3b5d41db1f9f?w=800&q=80&fit=crop&ar=1:1"
+  ],
+  "location": "Stone Town & Rural Villages, Zanzibar",
+  "duration": "3 days / 2 nights",
+  "priceFrom": 420,
+  "currency": "EUR",
+  "bestTimeToGo": "Year-round; cultural activities are not weather-dependent",
+  "difficulty": "Easy",
+  "groupSize": "2\u201312 guests",
+  "highlights": [
+    "Cook a traditional Swahili feast alongside a local family in their home",
+    "Learn the art of henna painting from village women",
+    "Spend a morning with a Zanzibari fisherman hauling nets at dawn",
+    "Attend a live Taarab music performance in Stone Town",
+    "Visit a traditional healer and learn about indigenous medicinal plants",
+    "Explore the island\u2019s lesser-known historical sites with a cultural historian"
+  ],
+  "includes": [
+    "All accommodation \u2013 2 nights in a Stone Town heritage guesthouse",
+    "All meals including home-cooked Swahili dishes",
+    "Private cultural guide and translator",
+    "All entrance fees and activity costs",
+    "Transport between activities",
+    "Cooking class ingredients and recipe card",
+    "Taarab concert ticket"
+  ],
+  "excludes": [
+    "International and domestic flights",
+    "Travel insurance",
+    "Alcoholic beverages",
+    "Gratuities",
+    "Personal purchases"
+  ],
+  "itinerary": [
+    {
+      "dayTitle": "Day 1 \u2013 Stone Town Heritage & Taarab Night",
+      "dayBody": "Check into your heritage guesthouse in the heart of Stone Town\u2014a restored merchant\u2019s house with original carved doors and a rooftop terrace. Your cultural guide leads an afternoon walk focusing on the architectural fusion of Swahili, Arab, and Indian influences that makes Stone Town unique. Visit the Aga Khan-restored Old Dispensary, the Hamamni Persian Baths, and a traditional Zanzibari coffee house where men gather to play bao, an ancient board game. In the evening, dress up for a live Taarab music performance\u2014a mesmerising blend of Arabic melodies, Indian rhythms, and Swahili poetry that is the soundtrack of the island."
+    },
+    {
+      "dayTitle": "Day 2 \u2013 Village Life & Swahili Cooking",
+      "dayBody": "Rise before dawn and join a local fisherman as he paddles his outrigger canoe into the shallows to haul in the night\u2019s catch. Return to shore as the village wakes and share a simple breakfast of mandazi (Swahili doughnuts) and spiced tea. Mid-morning, drive to a rural village where women welcome you into their home for a hands-on cooking class. Learn to prepare pilau rice, coconut bean curry, mchuzi wa samaki (fish in turmeric-coconut sauce), and chapati from scratch. Sit down to eat the meal you have prepared, then spend the afternoon learning henna art and visiting a traditional healer who shares knowledge of the island\u2019s medicinal plants."
+    },
+    {
+      "dayTitle": "Day 3 \u2013 Craft & Community",
+      "dayBody": "Start your final morning at a women\u2019s cooperative where seaweed is harvested and turned into soaps, oils, and beauty products\u2014a vital source of income for coastal communities. Try your hand at weaving a traditional kikoi cloth on a hand loom, then visit a local school supported by community tourism. Your guide wraps up the experience with a reflective conversation over Zanzibari coffee on your guesthouse rooftop, sharing insights into the island\u2019s future. Transfer to your next destination or the airport by early afternoon."
+    }
+  ],
+  "whatToBring": [
+    "Modest clothing covering shoulders and knees",
+    "Comfortable walking shoes",
+    "Notebook or journal",
+    "Camera (always ask permission before photographing people)",
+    "Small gifts for host families (school supplies are always appreciated)",
+    "Open mind and curiosity"
+  ],
+  "pickupInfo": "Pickup from any Stone Town hotel or Zanzibar airport on Day 1. Drop-off at your choice of hotel or airport on Day 3.",
+  "cancellationPolicyShort": "Free cancellation up to 24 hours before the tour.",
+  "featured": true,
+  "seo": {
+    "title": "Cultural Immersion Experience \u2013 3 Days | Zanzibar Heavenly",
+    "description": "Immerse yourself in Zanzibar\u2019s living culture over 3 days. Cook with local families, fish at dawn, learn henna art, and enjoy live Taarab music in Stone Town."
+  },
+  "content": "Zanzibar\u2019s culture is as rich and layered as the island\u2019s famous spice blends. This three-day experience peels back the surface of the tourist trail to reveal the traditions, rhythms, and daily rituals that define life on the island\u2014from the pre-dawn fishing trips to the evening Taarab concerts that have echoed through Stone Town\u2019s alleys for over a century.\n\nYou will not observe from a distance. You will stand in a village kitchen grinding spices on a stone mortar, sit cross-legged on a woven mat while a grandmother paints your hands with henna, and wade into the shallows alongside a fisherman who learned his craft from his father. Every encounter is arranged respectfully through long-standing community partnerships, ensuring that tourism directly benefits the families who open their doors to you. This expedition is for travellers who believe that understanding a place means understanding its people."
+}

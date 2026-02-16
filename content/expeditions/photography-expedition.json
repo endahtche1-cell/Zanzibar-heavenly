@@ -1,0 +1,81 @@
+{
+  "title": "Photography Expedition",
+  "slug": "photography-expedition",
+  "heroImage": "https://images.unsplash.com/photo-1642420400562-55c5ada702b3?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1642420400562-55c5ada702b3?w=800&q=80&fit=crop&ar=4:3",
+    "https://images.unsplash.com/photo-1642420400562-55c5ada702b3?w=800&q=80&fit=crop&ar=3:2",
+    "https://images.unsplash.com/photo-1642420400562-55c5ada702b3?w=800&q=80&fit=crop&ar=1:1"
+  ],
+  "location": "All Zanzibar \u2013 Stone Town, East Coast, Nungwi, & Jozani",
+  "duration": "5 days / 4 nights",
+  "priceFrom": 780,
+  "currency": "EUR",
+  "bestTimeToGo": "June to October for golden light and clear skies; December to February also excellent",
+  "difficulty": "Easy",
+  "groupSize": "2\u201312 guests",
+  "highlights": [
+    "Shoot sunrise over the turquoise flats of Paje beach with a professional photographer",
+    "Capture the moody alleyways and carved doors of Stone Town during golden hour",
+    "Photograph red colobus monkeys in the dappled light of Jozani Forest",
+    "Document a traditional dhow-building yard in Nungwi",
+    "Attend a private portfolio review and editing workshop",
+    "Photograph the vibrant chaos of Darajani Market at first light"
+  ],
+  "includes": [
+    "4 nights\u2019 accommodation in photography-friendly locations",
+    "All meals \u2013 breakfast, lunch, and dinner",
+    "Professional photographer guide (published in National Geographic Traveler)",
+    "All transport in a comfortable private vehicle",
+    "Daily editing and critique sessions",
+    "Entrance fees and permits for all locations",
+    "Drone permit (for guides with licensed drones)"
+  ],
+  "excludes": [
+    "International and domestic flights",
+    "Camera equipment and memory cards",
+    "Travel insurance",
+    "Alcoholic beverages",
+    "Gratuities",
+    "Laptop or editing software (bring your own)"
+  ],
+  "itinerary": [
+    {
+      "dayTitle": "Day 1 \u2013 Stone Town: Light, Shadow & Architecture",
+      "dayBody": "Check into your boutique hotel in Stone Town and meet your photography guide for a welcome briefing. Head out in the late afternoon to capture the warm golden light falling across the town\u2019s iconic carved wooden doors, crumbling balconies, and narrow alleyways. Learn techniques for shooting in tight spaces with mixed light. As the sun sets, position yourself on the waterfront for the classic silhouette shot of dhows against the burning sky. Evening editing session reviewing the day\u2019s captures over dinner."
+    },
+    {
+      "dayTitle": "Day 2 \u2013 Darajani Market & Spice Farms",
+      "dayBody": "Rise before dawn to capture Darajani Market as it comes alive\u2014fishermen unloading the night\u2019s catch, vendors arranging pyramids of tropical fruit, and the steam rising from street-food stalls. This is a masterclass in street photography, candid portraits, and working with available light. After breakfast, drive to a spice plantation for macro and detail photography of spices, tropical flowers, and textures. Afternoon editing workshop focusing on colour grading and composition."
+    },
+    {
+      "dayTitle": "Day 3 \u2013 East Coast: Seascapes & Seaweed Farmers",
+      "dayBody": "Transfer to the east coast for dramatically different scenery. Shoot the famous turquoise tidal flats of Paje at sunrise\u2014a vast, minimalist seascape that changes by the minute. Mid-morning, photograph the women seaweed farmers of Jambiani wading through shallow lagoons, a scene of extraordinary colour and human story. Afternoon free for independent shooting along the coast or an optional kitesurfing action-photography session. Evening critique and portfolio building."
+    },
+    {
+      "dayTitle": "Day 4 \u2013 Jozani Forest & Nungwi Dhow Yard",
+      "dayBody": "Morning in Jozani Forest shooting wildlife in challenging forest light. Learn techniques for photographing fast-moving primates, dappled light, and dense vegetation. The red colobus monkeys are surprisingly cooperative subjects. After lunch, drive to Nungwi to photograph the traditional dhow-building yards where craftsmen still build boats by hand using centuries-old methods. Catch the spectacular Nungwi sunset from the lighthouse headland. Final group dinner and image-of-the-trip competition."
+    },
+    {
+      "dayTitle": "Day 5 \u2013 Blue Hour & Departure",
+      "dayBody": "Optional pre-dawn shoot for blue-hour images of Stone Town\u2019s rooftops and the harbour. After breakfast, a final portfolio review session where your guide provides feedback and tips for post-processing back home. Transfer to the airport or your next destination by midday."
+    }
+  ],
+  "whatToBring": [
+    "Camera body and lenses (wide-angle and telephoto recommended)",
+    "Spare batteries and memory cards",
+    "Laptop with editing software (Lightroom or Capture One)",
+    "Sturdy tripod and remote shutter release",
+    "Lens cleaning kit",
+    "Comfortable walking shoes",
+    "Neutral-coloured clothing for wildlife sessions"
+  ],
+  "pickupInfo": "Airport pickup on Day 1 and drop-off on Day 5 included. All inter-location transfers during the expedition are covered.",
+  "cancellationPolicyShort": "Free cancellation up to 24 hours before the tour.",
+  "featured": true,
+  "seo": {
+    "title": "Photography Expedition \u2013 5 Days | Zanzibar Heavenly",
+    "description": "Join a 5-day photography expedition across Zanzibar led by a professional photographer. Capture Stone Town, wildlife, seascapes, and cultural portraits."
+  },
+  "content": "Zanzibar is one of the most photogenic places on Earth\u2014a collision of turquoise water, ancient architecture, vivid street life, and equatorial light that shifts from honey-gold to deep indigo in the space of an hour. This five-day expedition is designed for photographers of all levels who want to move beyond snapshots and come home with a portfolio of images that tell the island\u2019s story.\n\nLed by a professional photographer whose work has appeared in international travel publications, the expedition balances structured shooting sessions with creative freedom. You will learn to read the light in Stone Town\u2019s labyrinthine alleys, compose seascapes on the east coast\u2019s infinite tidal flats, and capture candid portraits in busy markets. Daily editing and critique sessions ensure you refine your technique throughout the trip. Whether you shoot on a smartphone or a full-frame mirrorless system, the goal is the same: to see Zanzibar more deeply through the lens."
+}

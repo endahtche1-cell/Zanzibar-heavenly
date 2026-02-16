@@ -1,0 +1,59 @@
+{
+  "title": "Zanzibar Village Tour",
+  "slug": "village-tour",
+  "heroImage": "https://images.unsplash.com/photo-1664272058030-09a6f4b8a52a?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1664272058030-09a6f4b8a52a?w=800&q=80&fit=crop&ar=4:3",
+    "https://images.unsplash.com/photo-1664272058030-09a6f4b8a52a?w=800&q=80&fit=crop&ar=3:2",
+    "https://images.unsplash.com/photo-1664272058030-09a6f4b8a52a?w=800&q=80&fit=crop&ar=1:1"
+  ],
+  "location": "Rural villages, Zanzibar",
+  "duration": "Half day (4\u20135 hours)",
+  "priceFrom": 65,
+  "currency": "EUR",
+  "bestTimeToGo": "Year-round; mornings are ideal for cooler temperatures",
+  "difficulty": "Easy",
+  "groupSize": "2\u201310 guests",
+  "highlights": [
+    "Experience authentic daily life in a traditional Zanzibari village",
+    "Visit local farms and learn about tropical agriculture",
+    "Meet local artisans and see traditional crafts being made",
+    "Taste home-cooked Swahili food prepared by village families",
+    "Interact with friendly locals and learn about Swahili culture",
+    "Support community-based tourism that benefits local families"
+  ],
+  "includes": [
+    "Hotel pickup and drop-off",
+    "English-speaking local guide",
+    "Traditional Swahili refreshments",
+    "Village community contribution fee",
+    "Bottled water"
+  ],
+  "excludes": [
+    "Gratuities",
+    "Personal purchases",
+    "Meals beyond included refreshments",
+    "Travel insurance"
+  ],
+  "itinerary": [
+    {
+      "dayTitle": "Village Life Experience",
+      "dayBody": "Your guide picks you up from your hotel and drives through the lush countryside to a traditional Zanzibari village. You\u2019re welcomed warmly by the village elders and taken on a walking tour through the community. Visit a local farm to see how coconuts, cassava, bananas, and tropical fruits are cultivated using traditional methods. Watch local artisans at work \u2014 from weaving makuti palm roofing to carving wooden utensils. Visit a traditional Swahili kitchen where village women prepare local dishes, and sample home-cooked specialties including pilau rice, chapati, and fresh coconut juice. The tour includes time to interact with village children at the local school and learn about the community\u2019s way of life. A portion of the tour fee goes directly to the village community fund."
+    }
+  ],
+  "whatToBring": [
+    "Comfortable walking shoes",
+    "Modest clothing covering shoulders and knees",
+    "Sunscreen and hat",
+    "Camera",
+    "Small gifts for village children (pens, notebooks) are appreciated but optional"
+  ],
+  "pickupInfo": "Complimentary pickup from all major hotel areas in Zanzibar.",
+  "cancellationPolicyShort": "Free cancellation up to 24 hours before the tour.",
+  "featured": false,
+  "seo": {
+    "title": "Zanzibar Village Tour | Zanzibar Heavenly",
+    "description": "Experience authentic Zanzibari village life. Visit local farms, meet artisans, taste traditional Swahili food, and connect with local communities."
+  },
+  "content": "Step off the beaten tourist trail and into the heart of real Zanzibar. This village tour takes you beyond the resorts and tourist hubs into the daily rhythm of island life, where families tend their farms, artisans practice centuries-old crafts, and the pace of life moves to the sound of roosters and ocean breeze.\n\nYou\u2019ll walk through coconut plantations, visit traditional Swahili homes with their coral-stone walls and makuti roofs, and sit with village elders who share stories of life on the island. The highlight for many is the cooking demonstration, where village women prepare dishes passed down through generations \u2014 the aromas of cardamom, turmeric, and fresh coconut filling the air. This is community-based tourism at its best: genuine, respectful, and enriching for both visitor and host."
+}

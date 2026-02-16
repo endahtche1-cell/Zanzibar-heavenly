@@ -1,0 +1,60 @@
+{
+  "title": "Stone Town City Tour & Spice Farm",
+  "slug": "spice-farm-tour",
+  "heroImage": "https://images.unsplash.com/photo-1590140568979-9d2aebbd9379?w=1200&q=80",
+  "galleryImages": [
+    "https://images.unsplash.com/photo-1590140568979-9d2aebbd9379?w=800&q=80&fit=crop&ar=4:3",
+    "https://images.unsplash.com/photo-1590140568979-9d2aebbd9379?w=800&q=80&fit=crop&ar=3:2",
+    "https://images.unsplash.com/photo-1590140568979-9d2aebbd9379?w=800&q=80&fit=crop&ar=1:1"
+  ],
+  "location": "Stone Town & Kizimbani, Zanzibar",
+  "duration": "Full day (7\u20138 hours)",
+  "priceFrom": 100,
+  "currency": "EUR",
+  "bestTimeToGo": "Year-round; clove harvest season (July\u2013October) is especially aromatic",
+  "difficulty": "Easy",
+  "groupSize": "2\u201312 guests",
+  "highlights": [
+    "Guided walking tour of historic Stone Town \u2014 a UNESCO World Heritage Site",
+    "Explore the Old Fort, House of Wonders, and famous carved Zanzibari doors",
+    "Visit a traditional spice farm and smell, taste, and identify over 15 different spices",
+    "Learn the history of Zanzibar\u2019s spice trade that shaped world commerce",
+    "Enjoy a traditional Swahili dinner prepared with freshly picked spices",
+    "Watch a local farmer scale a coconut palm with bare feet",
+    "Take home a small bag of mixed spices as a souvenir"
+  ],
+  "includes": [
+    "Licensed English-speaking guide",
+    "Hotel pickup and drop-off",
+    "Stone Town guided walking tour",
+    "Traditional Swahili spice lunch or dinner",
+    "All entrance and farm fees",
+    "Complimentary spice gift bag"
+  ],
+  "excludes": [
+    "Gratuities",
+    "Additional spice purchases",
+    "Drinks beyond water and coconut juice"
+  ],
+  "itinerary": [
+    {
+      "dayTitle": "Stone Town & Spice Farm Tour",
+      "dayBody": "Begin your morning with a guided walking tour of Stone Town, Zanzibar\u2019s atmospheric UNESCO World Heritage heart. Wander through narrow alleyways lined with intricately carved wooden doors, visit the Old Fort and the former House of Wonders, browse the bustling Darajani Market, and hear the stories of sultans, slaves, and spice traders that shaped this extraordinary city. After exploring Stone Town, drive through the lush interior to Kizimbani, one of the island\u2019s oldest spice-growing regions. A local farmer guides you through shaded groves where cloves, vanilla, cinnamon, black pepper, cardamom, nutmeg, and lemongrass flourish. Crush leaves between your fingers, learn to distinguish turmeric from ginger root, and watch skilled climbers harvest coconuts. The day culminates in a traditional Swahili dinner prepared with the very spices you\u2019ve just discovered. Before heading back, you\u2019ll receive a hand-wrapped spice gift bag to bring the aromas of Zanzibar home."
+    }
+  ],
+  "whatToBring": [
+    "Closed-toe shoes or sturdy sandals",
+    "Insect repellent",
+    "Sunscreen",
+    "Camera",
+    "Light rain jacket (during rainy season)"
+  ],
+  "pickupInfo": "Free hotel pickup and drop-off from Stone Town, Nungwi, Kendwa, and Paje. Pickup from other areas available on request.",
+  "cancellationPolicyShort": "Free cancellation up to 24 hours before the tour.",
+  "featured": true,
+  "seo": {
+    "title": "Stone Town City Tour & Spice Farm | Zanzibar Heavenly",
+    "description": "Explore historic Stone Town and visit a working spice plantation on this full-day Zanzibar combo tour. Includes guided walking tour, spice tasting, traditional Swahili dinner, and hotel pickup."
+  },
+  "content": "This full-day combo tour pairs two of Zanzibar\u2019s most iconic experiences: the atmospheric streets of Stone Town and the fragrant spice farms that gave the island its famous nickname.\n\nThe morning begins in Stone Town \u2014 a UNESCO World Heritage Site and one of the most enchanting old quarters in the Indian Ocean. Your guide leads you through a labyrinth of narrow alleyways past magnificent carved doors, the Old Fort, and the bustling Darajani Market, sharing stories of the sultans, explorers, and traders who shaped this remarkable city over centuries.\n\nIn the afternoon, you head inland to the lush spice-growing heartland of Kizimbani. A local farmer \u2014 whose family has tended these groves for decades \u2014 will introduce you to over fifteen different spices and medicinal plants growing in their natural state. You\u2019ll learn how a small dried bud becomes the clove that flavours kitchens worldwide, why Zanzibar vanilla is prized by pastry chefs, and how turmeric paste has been used in local beauty rituals for centuries. The experience goes beyond sight-seeing: you will touch, smell, and taste your way through the plantation before sitting down to a traditional Swahili dinner that brings everything together on the plate."
+}
