@@ -3,8 +3,8 @@ export const siteConfig = {
   tagline: 'Bespoke Zanzibar tours, expeditions, and stays — curated with local love.',
   url: process.env.SITE_URL || 'https://zanzibarheavenly.com',
   contactEmail: 'info@zanzibarheavenly.com',
-  whatsappNumber: '255777000000', // Replace with real number
-  phone: '+255 777 000 000',
+  whatsappNumber: '255682490734',
+  phone: '+255 682 490 734',
   currency: 'EUR' as const,
   location: {
     city: 'Stone Town',
