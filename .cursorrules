@@ -1,0 +1,74 @@
+# Zanzibar Heavenly — Project Rules
+
+## Overview
+Marketing website for Zanzibar Heavenly, a boutique Zanzibar tourism company run by Kassim. The site showcases tours, multi-day expeditions, and accommodation, converting visitors into booking enquiries via WhatsApp and a web form powered by Resend.
+
+## Tech Stack
+- **Framework:** Next.js 16 (App Router) with TypeScript
+- **Styling:** Tailwind CSS v4 using `@theme` directive for CSS variables
+- **Fonts:** DM Sans (headings via `--font-heading`), Inter (body via `--font-body`) — loaded via `next/font/google`
+- **Animations:** Framer Motion (FadeIn, Stagger, ParallaxImage components in `src/components/ui/Motion.tsx`)
+- **Smooth scroll:** Lenis
+- **Email:** Resend API (no SDK — uses raw fetch in `src/app/api/enquiry/route.ts`)
+- **Deployment:** Vercel at zanzibarheavenly.com
+- **Static generation:** SSG with `generateStaticParams` for all content pages
+
+## Colour Palette
+- **Teal:** #2f6f73 (primary brand colour, CTAs, headings)
+- **Coral:** #e86f51 (accent)
+- **Saffron:** #e2a94b (warm accent)
+- **Warm White:** #f7f6f2 (page background)
+- **Sand:** #f0eee8 (card backgrounds, sections)
+- **Ink:** #1a1a1a (text)
+- **Palm:** #3f7d6a (secondary green)
+
+## Content Architecture
+- All tour/expedition/accommodation/guide content lives in JSON files under `/content`
+- Content is read at build time via helpers in `src/lib/content.ts`
+- Currency is EUR throughout
+- WhatsApp number: +255 682 490 734
+- Contact email: info@zanzibarheavenly.com
+
+## Key Directories
+```
+src/
+├── app/                    # Next.js App Router pages
+│   ├── tours/[slug]/       # Individual tour pages
+│   ├── expeditions/[slug]/ # Individual expedition pages
+│   ├── accommodation/[slug]/ # Individual accommodation pages
+│   ├── gallery/            # Photo gallery with lightbox
+│   ├── guide/[slug]/       # Travel guide articles
+│   ├── contact/            # Enquiry form page
+│   └── api/enquiry/        # Resend email API route
+├── components/
+│   ├── layout/             # Header, Footer, WhatsApp floating button
+│   ├── sections/           # HeroSection, GalleryGrid, etc.
+│   └── ui/                 # EnquiryForm, Motion, ImagePlaceholder, etc.
+├── config/site.ts          # Site config (nav, contact, social links)
+├── lib/
+│   ├── content.ts          # Content loading helpers
+│   ├── types.ts            # TypeScript types
+│   └── utils.ts            # formatPrice, cn, etc.
+content/
+├── tours/                  # Tour JSON files
+├── expeditions/            # Expedition JSON files
+├── accommodation/          # Accommodation JSON files
+└── guides/                 # Guide article JSON files
+```
+
+## Design Patterns
+- **Editorial/luxury tourism aesthetic** — clean, spacious, warm
+- Cards use `bg-white` with `border border-border rounded-xl shadow-sm`
+- Section labels: `text-[11px] tracking-[0.2em] uppercase text-muted`
+- CTAs: rounded-full buttons with `tracking-[0.12em] uppercase`
+- Primary CTA: `bg-teal text-white`, Secondary: `border border-teal text-teal`
+- Sidebar cards on detail pages are sticky (`sticky top-24`)
+- Hero sections use `ImagePlaceholder` with gradient overlay
+- Use `FadeIn` from Motion.tsx for scroll-triggered animations
+
+## Important Notes
+- Images in `/public/images/` have spaces in filenames — use `%20` encoding in src attributes
+- Remote images from Unsplash are allowed via `next.config.ts` remotePatterns
+- The enquiry form has honeypot spam protection and rate limiting
+- Environment variables needed: `RESEND_API_KEY`, `CONTACT_EMAIL`, optionally `RESEND_FROM_EMAIL`
+- Do NOT change the WhatsApp number or email without asking
