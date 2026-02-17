@@ -184,7 +184,7 @@ export async function POST(req: NextRequest) {
           Authorization: `Bearer ${resendKey}`,
         },
         body: JSON.stringify({
-          from: `Zanzibar Heavenly <${fromEmail}>`,
+          from: fromEmail,
           to: contactEmail,
           subject: `New Enquiry: ${body.interestedIn} — ${body.fullName}`,
           html: buildHtmlEmail(body),
@@ -196,9 +196,11 @@ export async function POST(req: NextRequest) {
       if (!res.ok) {
         const err = await res.json().catch(() => ({}))
         console.error('Resend API error:', err)
+        return NextResponse.json({ error: 'Failed to send email', details: err }, { status: 500 })
       }
     } else {
       console.warn('Resend not configured — set RESEND_API_KEY and CONTACT_EMAIL env vars')
+      return NextResponse.json({ error: 'Email not configured' }, { status: 500 })
     }
 
     return NextResponse.json({ success: true })
