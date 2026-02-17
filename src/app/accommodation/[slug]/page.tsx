@@ -60,7 +60,7 @@ export default async function AccommodationDetailPage({ params }: Props) {
 
       <section className="bg-warmwhite py-16">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <Breadcrumbs items={[{ label: 'Accommodation', href: '/accommodation' }, { label: acc.title }]} />
+          <Breadcrumbs items={[{ label: 'Accommodation', href: '/accommodation' }, { label: acc.title }]} currentPath={`/accommodation/${acc.slug}`} />
 
           <div className="grid gap-12 lg:grid-cols-3">
             <div className="lg:col-span-2 space-y-12">

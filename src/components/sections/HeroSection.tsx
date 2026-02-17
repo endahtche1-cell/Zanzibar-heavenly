@@ -1,7 +1,4 @@
-'use client'
-
 import Link from 'next/link'
-import { motion } from 'framer-motion'
 import ImagePlaceholder from '@/components/ui/ImagePlaceholder'
 
 interface HeroSectionProps {
@@ -25,18 +22,20 @@ export default function HeroSection({
 }: HeroSectionProps) {
   return (
     <section className={`relative flex items-end overflow-hidden ${compact ? 'min-h-[50vh]' : 'min-h-screen'}`}>
-      {/* Background image with zoom-in */}
-      <motion.div
-        className="absolute inset-0"
-        initial={{ scale: 1.08 }}
-        animate={{ scale: 1 }}
-        transition={{ duration: 1.8, ease: [0.25, 0.4, 0.25, 1] }}
-      >
-        <ImagePlaceholder src={image} alt="" fill priority className="object-cover" />
+      {/* Background image with CSS zoom-in animation */}
+      <div className="absolute inset-0 animate-hero-zoom">
+        <ImagePlaceholder
+          src={image}
+          alt=""
+          fill
+          priority
+          className="object-cover"
+          sizes="100vw"
+        />
         {/* Bright warm overlay instead of dark */}
         <div className="absolute inset-0 bg-gradient-to-t from-warmwhite via-warmwhite/40 to-transparent" />
         <div className="absolute inset-0 bg-warmwhite/10" />
-      </motion.div>
+      </div>
 
       {/* Decorative accent shapes */}
       {!compact && (
@@ -50,32 +49,26 @@ export default function HeroSection({
       <div className={`relative z-10 w-full ${compact ? 'pb-14 pt-32' : 'pb-24 pt-40 lg:pb-32'}`}>
         <div className="mx-auto max-w-7xl px-6 lg:px-10">
           <div className="max-w-3xl">
-            <motion.h1
-              initial={{ opacity: 0, y: 40 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 1, delay: 0.3, ease: [0.25, 0.4, 0.25, 1] }}
-              className={`font-heading font-normal leading-[1.1] tracking-[-0.02em] text-ink ${
+            <h1
+              className={`font-heading font-normal leading-[1.1] tracking-[-0.02em] text-ink animate-fade-up ${
                 compact ? 'text-3xl sm:text-4xl lg:text-5xl' : 'text-4xl sm:text-5xl lg:text-7xl'
               }`}
+              style={{ animationDelay: '0.3s' }}
             >
               {title}
-            </motion.h1>
+            </h1>
             {subtitle && (
-              <motion.p
-                initial={{ opacity: 0, y: 30 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{ duration: 0.9, delay: 0.5, ease: [0.25, 0.4, 0.25, 1] }}
-                className="mt-6 max-w-xl text-base leading-relaxed text-ink-light/70 lg:text-lg lg:mt-8"
+              <p
+                className="mt-6 max-w-xl text-base leading-relaxed text-ink-light/70 lg:text-lg lg:mt-8 animate-fade-up"
+                style={{ animationDelay: '0.5s' }}
               >
                 {subtitle}
-              </motion.p>
+              </p>
             )}
             {(ctaText || secondaryCta) && (
-              <motion.div
-                initial={{ opacity: 0, y: 20 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{ duration: 0.8, delay: 0.7, ease: [0.25, 0.4, 0.25, 1] }}
-                className="mt-10 flex flex-wrap items-center gap-5 lg:mt-12"
+              <div
+                className="mt-10 flex flex-wrap items-center gap-5 lg:mt-12 animate-fade-up"
+                style={{ animationDelay: '0.7s' }}
               >
                 {ctaText && ctaHref && (
                   <Link
@@ -91,25 +84,16 @@ export default function HeroSection({
                     {secondaryCta.text}
                   </Link>
                 )}
-              </motion.div>
+              </div>
             )}
           </div>
         </div>
       </div>
 
       {!compact && (
-        <motion.div
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-          transition={{ delay: 1.5, duration: 1 }}
-          className="absolute bottom-8 left-1/2 -translate-x-1/2 z-10"
-        >
-          <motion.div
-            animate={{ y: [0, 8, 0] }}
-            transition={{ repeat: Infinity, duration: 2, ease: 'easeInOut' }}
-            className="w-px h-12 bg-gradient-to-b from-transparent via-ink/20 to-transparent"
-          />
-        </motion.div>
+        <div className="absolute bottom-8 left-1/2 -translate-x-1/2 z-10 animate-fade-in" style={{ animationDelay: '1.5s' }}>
+          <div className="w-px h-12 bg-gradient-to-b from-transparent via-ink/20 to-transparent animate-scroll-hint" />
+        </div>
       )}
     </section>
   )

@@ -1,7 +1,5 @@
-'use client'
-
 import Link from 'next/link'
-import { ImageHoverZoom } from './Motion'
+import { ImageHoverZoom } from './CSSMotion'
 import ImagePlaceholder from './ImagePlaceholder'
 import { formatPrice } from '@/lib/utils'
 import type { Tour, Expedition } from '@/lib/types'

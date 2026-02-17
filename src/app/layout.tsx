@@ -2,11 +2,9 @@ import type { Metadata } from 'next'
 import { DM_Sans, Inter } from 'next/font/google'
 import Header from '@/components/layout/Header'
 import Footer from '@/components/layout/Footer'
-import WhatsAppButton from '@/components/ui/WhatsAppButton'
-import SmoothScroll from '@/components/ui/SmoothScroll'
-import AnalyticsScript from '@/components/ui/AnalyticsScript'
 import { OrganizationJsonLd } from '@/components/ui/JsonLd'
 import { siteConfig } from '@/config/site'
+import ClientProviders from '@/components/ui/ClientProviders'
 import './globals.css'
 
 const dmSans = DM_Sans({
@@ -28,6 +26,9 @@ export const metadata: Metadata = {
     template: `%s | ${siteConfig.name}`,
   },
   description: siteConfig.tagline,
+  alternates: {
+    canonical: './',
+  },
   openGraph: {
     type: 'website',
     locale: 'en_US',
@@ -53,13 +54,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <a href="#main-content" className="skip-link">
           Skip to main content
         </a>
-        <SmoothScroll />
+        <ClientProviders />
         <OrganizationJsonLd />
         <Header />
         <main id="main-content">{children}</main>
         <Footer />
-        <WhatsAppButton variant="floating" />
-        <AnalyticsScript />
       </body>
     </html>
   )

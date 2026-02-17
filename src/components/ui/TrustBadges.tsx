@@ -1,4 +1,4 @@
-import { FadeIn } from './Motion'
+import { FadeInView } from './CSSMotion'
 
 const badges = [
   {
@@ -49,7 +49,7 @@ export default function TrustBadges() {
   return (
     <section className="bg-sand py-20 lg:py-24">
       <div className="mx-auto max-w-7xl px-6 lg:px-10">
-        <FadeIn>
+        <FadeInView>
           <div className="grid gap-10 sm:grid-cols-2 lg:grid-cols-4 lg:gap-8">
             {badges.map((badge) => (
               <div key={badge.title} className="text-center lg:text-left">
@@ -65,7 +65,7 @@ export default function TrustBadges() {
               </div>
             ))}
           </div>
-        </FadeIn>
+        </FadeInView>
       </div>
     </section>
   )

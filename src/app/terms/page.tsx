@@ -11,7 +11,7 @@ export default function TermsPage() {
   return (
     <section className="bg-warmwhite pt-32 pb-16">
       <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
-        <Breadcrumbs items={[{ label: 'Terms of Service' }]} />
+        <Breadcrumbs items={[{ label: 'Terms of Service' }]} currentPath="/terms" />
 
         <h1 className="font-heading text-3xl font-light tracking-tight text-ink sm:text-4xl">Terms of Service</h1>
         <p className="mt-2 text-sm text-muted">Last updated: January 2025</p>

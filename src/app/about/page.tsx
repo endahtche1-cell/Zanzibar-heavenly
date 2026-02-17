@@ -8,6 +8,11 @@ import { FadeIn } from '@/components/ui/Motion'
 export const metadata: Metadata = {
   title: 'About Zanzibar Heavenly — Our Story',
   description: 'Meet the team behind Zanzibar Heavenly. Born and raised on the island, we bring authentic local expertise to every tour, expedition, and stay we curate.',
+  openGraph: {
+    title: 'About Zanzibar Heavenly — Our Story',
+    description: 'Meet the team behind Zanzibar Heavenly. Born and raised on the island, we bring authentic local expertise to every tour, expedition, and stay we curate.',
+    images: [{ url: 'https://images.unsplash.com/photo-1523805009345-7448845a9e53?w=1200&q=80', width: 1200, height: 630 }],
+  },
 }
 
 export default function AboutPage() {
@@ -22,7 +27,7 @@ export default function AboutPage() {
 
       <section className="bg-warmwhite py-20">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <Breadcrumbs items={[{ label: 'About' }]} />
+          <Breadcrumbs items={[{ label: 'About' }]} currentPath="/about" />
 
           <div className="space-y-12 text-ink/80">
             <FadeIn>

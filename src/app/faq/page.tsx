@@ -4,10 +4,15 @@ import FAQAccordion from '@/components/ui/FAQAccordion'
 import Link from 'next/link'
 import type { FAQItem } from '@/lib/types'
 import { FadeIn } from '@/components/ui/Motion'
+import { FAQPageJsonLd } from '@/components/ui/JsonLd'
 
 export const metadata: Metadata = {
   title: 'FAQ — Frequently Asked Questions',
   description: 'Answers to common questions about Zanzibar tours, expeditions, accommodation, payments, cancellations, and travel tips.',
+  openGraph: {
+    title: 'FAQ — Frequently Asked Questions | Zanzibar Heavenly',
+    description: 'Answers to common questions about Zanzibar tours, expeditions, accommodation, payments, cancellations, and travel tips.',
+  },
 }
 
 const faqItems: FAQItem[] = [
@@ -66,6 +71,7 @@ const faqItems: FAQItem[] = [
 export default function FAQPage() {
   return (
     <>
+      <FAQPageJsonLd items={faqItems} />
       <section className="bg-sand py-24 pt-32">
         <div className="mx-auto max-w-7xl px-4 text-center sm:px-6 lg:px-8">
           <p className="text-xs font-medium uppercase tracking-[0.2em] text-teal">Support</p>
@@ -80,7 +86,7 @@ export default function FAQPage() {
 
       <section className="bg-warmwhite py-20">
         <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
-          <Breadcrumbs items={[{ label: 'FAQ' }]} />
+          <Breadcrumbs items={[{ label: 'FAQ' }]} currentPath="/faq" />
 
           <FadeIn>
             <FAQAccordion items={faqItems} />

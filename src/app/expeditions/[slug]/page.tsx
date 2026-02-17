@@ -63,7 +63,7 @@ export default async function ExpeditionDetailPage({ params }: Props) {
 
       <section className="py-16">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <Breadcrumbs items={[{ label: 'Expeditions', href: '/expeditions' }, { label: exp.title }]} />
+          <Breadcrumbs items={[{ label: 'Expeditions', href: '/expeditions' }, { label: exp.title }]} currentPath={`/expeditions/${exp.slug}`} />
 
           <div className="grid gap-12 lg:grid-cols-3">
             {/* Main content */}

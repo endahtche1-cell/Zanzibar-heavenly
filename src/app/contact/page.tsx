@@ -9,6 +9,10 @@ import { FadeIn } from '@/components/ui/Motion'
 export const metadata: Metadata = {
   title: 'Enquire — Start Planning Your Holiday',
   description: 'Ready to plan your Zanzibar adventure? Contact Zanzibar Heavenly via our enquiry form, WhatsApp, email, or phone. We respond within 24 hours.',
+  openGraph: {
+    title: 'Enquire — Start Planning Your Zanzibar Holiday',
+    description: 'Ready to plan your Zanzibar adventure? Contact Zanzibar Heavenly via our enquiry form, WhatsApp, email, or phone.',
+  },
 }
 
 export default function ContactPage() {
@@ -36,7 +40,7 @@ export default function ContactPage() {
 
       <section className="bg-warmwhite py-16">
         <div className="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8">
-          <Breadcrumbs items={[{ label: 'Enquire' }]} />
+          <Breadcrumbs items={[{ label: 'Contact' }]} currentPath="/contact" />
 
           <FadeIn>
             <div className="mt-8">

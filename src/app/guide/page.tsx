@@ -8,6 +8,11 @@ import { getAllGuides } from '@/lib/content'
 export const metadata: Metadata = {
   title: 'Zanzibar Guide — Travel Tips, Culture & Inspiration',
   description: 'Your complete Zanzibar travel guide: when to visit, what to pack, top beaches, cultural tips, and insider knowledge from local experts.',
+  openGraph: {
+    title: 'Zanzibar Guide — Travel Tips, Culture & Inspiration',
+    description: 'Your complete Zanzibar travel guide: when to visit, what to pack, top beaches, cultural tips, and insider knowledge from local experts.',
+    images: [{ url: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=80', width: 1200, height: 630 }],
+  },
 }
 
 export default function GuidePage() {
@@ -24,7 +29,7 @@ export default function GuidePage() {
 
       <section className="bg-warmwhite py-20">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <Breadcrumbs items={[{ label: 'Guide' }]} />
+          <Breadcrumbs items={[{ label: 'Guide' }]} currentPath="/guide" />
 
           <FadeIn>
             <div className="mb-12">

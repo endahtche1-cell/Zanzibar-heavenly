@@ -1,12 +1,16 @@
 import Link from 'next/link'
+import dynamic from 'next/dynamic'
 import HeroSection from '@/components/sections/HeroSection'
 import TourCard from '@/components/ui/TourCard'
 import AccommodationCard from '@/components/ui/AccommodationCard'
 import GuideCard from '@/components/ui/GuideCard'
-import TestimonialCarousel from '@/components/ui/TestimonialCarousel'
 import TrustBadges from '@/components/ui/TrustBadges'
 import { FadeIn, Stagger, StaggerItem } from '@/components/ui/Motion'
 import { getFeaturedTours, getFeaturedExpeditions, getFeaturedAccommodation, getAllGuides } from '@/lib/content'
+
+const TestimonialCarousel = dynamic(() => import('@/components/ui/TestimonialCarousel'), {
+  loading: () => <div className="bg-warmwhite py-24 lg:py-32" />,
+})
 
 export default function HomePage() {
   const featuredTours = getFeaturedTours()

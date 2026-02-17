@@ -8,6 +8,11 @@ import { getAllTours } from '@/lib/content'
 export const metadata: Metadata = {
   title: 'Tours — Day Trips & Experiences in Zanzibar',
   description: 'Explore curated day tours across Zanzibar: Stone Town walks, spice farms, snorkelling, dhow cruises, and more. Guided by locals who know the island best.',
+  openGraph: {
+    title: 'Zanzibar Tours — Day Trips & Experiences',
+    description: 'Explore curated day tours across Zanzibar: Stone Town walks, spice farms, snorkelling, dhow cruises, and more.',
+    images: [{ url: 'https://images.unsplash.com/photo-1617032021001-84731af165ab?w=1200&q=80', width: 1200, height: 630 }],
+  },
 }
 
 export default function ToursPage() {
@@ -24,7 +29,7 @@ export default function ToursPage() {
 
       <section className="py-20">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <Breadcrumbs items={[{ label: 'Tours' }]} />
+          <Breadcrumbs items={[{ label: 'Tours' }]} currentPath="/tours" />
 
           <div className="mb-12">
             <p className="text-[11px] tracking-[0.2em] uppercase text-muted">{tours.length} tours available</p>

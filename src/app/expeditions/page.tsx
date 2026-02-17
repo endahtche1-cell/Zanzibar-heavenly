@@ -8,6 +8,11 @@ import { getAllExpeditions } from '@/lib/content'
 export const metadata: Metadata = {
   title: 'Expeditions — Multi-Day Adventures in Zanzibar',
   description: 'Immersive multi-day expeditions across Zanzibar: island hopping, cultural immersion, photography, and more. Go beyond the ordinary.',
+  openGraph: {
+    title: 'Zanzibar Expeditions — Multi-Day Adventures',
+    description: 'Immersive multi-day expeditions across Zanzibar: island hopping, cultural immersion, photography, and more.',
+    images: [{ url: 'https://images.unsplash.com/photo-1634662052101-78f72e8307be?w=1200&q=80', width: 1200, height: 630 }],
+  },
 }
 
 export default function ExpeditionsPage() {
@@ -24,7 +29,7 @@ export default function ExpeditionsPage() {
 
       <section className="py-20">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <Breadcrumbs items={[{ label: 'Expeditions' }]} />
+          <Breadcrumbs items={[{ label: 'Expeditions' }]} currentPath="/expeditions" />
 
           <div className="mb-12">
             <p className="text-[11px] tracking-[0.2em] uppercase text-muted">{expeditions.length} expeditions available</p>

@@ -114,3 +114,39 @@ export function BlogPostingJsonLd({ post }: { post: { title: string; slug: strin
     />
   )
 }
+
+export function FAQPageJsonLd({ items }: { items: { question: string; answer: string }[] }) {
+  return (
+    <JsonLd
+      data={{
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        mainEntity: items.map((item) => ({
+          '@type': 'Question',
+          name: item.question,
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: item.answer,
+          },
+        })),
+      }}
+    />
+  )
+}
+
+export function BreadcrumbListJsonLd({ items }: { items: { name: string; url: string }[] }) {
+  return (
+    <JsonLd
+      data={{
+        '@context': 'https://schema.org',
+        '@type': 'BreadcrumbList',
+        itemListElement: items.map((item, index) => ({
+          '@type': 'ListItem',
+          position: index + 1,
+          name: item.name,
+          item: item.url,
+        })),
+      }}
+    />
+  )
+}

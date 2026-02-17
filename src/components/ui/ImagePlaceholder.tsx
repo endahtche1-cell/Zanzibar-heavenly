@@ -1,5 +1,3 @@
-'use client'
-
 import Image from 'next/image'
 
 interface ImagePlaceholderProps {
@@ -11,6 +9,7 @@ interface ImagePlaceholderProps {
   className?: string
   priority?: boolean
   sizes?: string
+  loading?: 'lazy' | 'eager'
 }
 
 export default function ImagePlaceholder({
@@ -22,14 +21,11 @@ export default function ImagePlaceholder({
   className = '',
   priority = false,
   sizes,
+  loading,
 }: ImagePlaceholderProps) {
-  const placeholderStyle = {
-    background: 'linear-gradient(135deg, #f0eee8 0%, #e8e5de 50%, #f7f6f2 100%)',
-  }
-
   if (fill) {
     return (
-      <div className="absolute inset-0" style={placeholderStyle}>
+      <div className="absolute inset-0 bg-gradient-to-br from-[#f0eee8] via-[#e8e5de] to-[#f7f6f2]">
         <Image
           src={src}
           alt={alt}
@@ -37,16 +33,14 @@ export default function ImagePlaceholder({
           className={`object-cover ${className}`}
           priority={priority}
           sizes={sizes || '100vw'}
-          onError={(e) => {
-            (e.target as HTMLImageElement).style.display = 'none'
-          }}
+          loading={priority ? undefined : (loading || 'lazy')}
         />
       </div>
     )
   }
 
   return (
-    <div className="relative overflow-hidden" style={placeholderStyle}>
+    <div className="relative overflow-hidden bg-gradient-to-br from-[#f0eee8] via-[#e8e5de] to-[#f7f6f2]">
       <Image
         src={src}
         alt={alt}
@@ -55,9 +49,7 @@ export default function ImagePlaceholder({
         className={`object-cover ${className}`}
         priority={priority}
         sizes={sizes}
-        onError={(e) => {
-          (e.target as HTMLImageElement).style.display = 'none'
-        }}
+        loading={priority ? undefined : (loading || 'lazy')}
       />
     </div>
   )

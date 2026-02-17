@@ -69,7 +69,7 @@ export default async function GuideDetailPage({ params }: Props) {
 
       <article className="bg-warmwhite py-16">
         <div className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8">
-          <Breadcrumbs items={[{ label: 'Guide', href: '/guide' }, { label: guide.title }]} />
+          <Breadcrumbs items={[{ label: 'Guide', href: '/guide' }, { label: guide.title }]} currentPath={`/guide/${guide.slug}`} />
 
           <FadeIn>
             <div

@@ -8,6 +8,11 @@ import { getAllAccommodation } from '@/lib/content'
 export const metadata: Metadata = {
   title: 'Accommodation — Villas, Hotels & Stays in Zanzibar',
   description: 'Handpicked Zanzibar accommodation: beachfront villas, boutique hotels, resort retreats, and budget-friendly apartments across the island.',
+  openGraph: {
+    title: 'Zanzibar Accommodation — Villas, Hotels & Stays',
+    description: 'Handpicked Zanzibar accommodation: beachfront villas, boutique hotels, resort retreats, and budget-friendly apartments.',
+    images: [{ url: 'https://images.unsplash.com/photo-1587847139658-201a62d23770?w=1200&q=80', width: 1200, height: 630 }],
+  },
 }
 
 export default function AccommodationPage() {
@@ -24,7 +29,7 @@ export default function AccommodationPage() {
 
       <section className="bg-warmwhite py-20">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <Breadcrumbs items={[{ label: 'Accommodation' }]} />
+          <Breadcrumbs items={[{ label: 'Accommodation' }]} currentPath="/accommodation" />
 
           <FadeIn>
             <div className="mb-12">

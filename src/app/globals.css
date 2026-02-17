@@ -141,3 +141,108 @@ body {
   opacity: 0.08;
   pointer-events: none;
 }
+
+/* ─── Hero animations (CSS-only for performance) ─── */
+@keyframes hero-zoom {
+  from {
+    transform: scale(1.08);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes scroll-hint {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(8px);
+  }
+}
+
+.animate-hero-zoom {
+  animation: hero-zoom 1.8s cubic-bezier(0.25, 0.4, 0.25, 1) forwards;
+}
+
+.animate-fade-up {
+  opacity: 0;
+  animation: fade-up 0.9s cubic-bezier(0.25, 0.4, 0.25, 1) forwards;
+}
+
+.animate-fade-in {
+  opacity: 0;
+  animation: fade-in 1s ease-out forwards;
+}
+
+.animate-scroll-hint {
+  animation: scroll-hint 2s ease-in-out infinite;
+}
+
+/* ─── Intersection observer-free fade animations ─── */
+@keyframes fade-in-view {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-view {
+  animation: fade-in-view 0.7s cubic-bezier(0.25, 0.4, 0.25, 1) forwards;
+}
+
+/* ─── Stagger grid animation ─── */
+.stagger-grid > .stagger-grid-item {
+  opacity: 0;
+  animation: fade-in-view 0.6s cubic-bezier(0.25, 0.4, 0.25, 1) forwards;
+}
+
+.stagger-grid > .stagger-grid-item:nth-child(1) { animation-delay: 0.1s; }
+.stagger-grid > .stagger-grid-item:nth-child(2) { animation-delay: 0.2s; }
+.stagger-grid > .stagger-grid-item:nth-child(3) { animation-delay: 0.3s; }
+.stagger-grid > .stagger-grid-item:nth-child(4) { animation-delay: 0.4s; }
+.stagger-grid > .stagger-grid-item:nth-child(5) { animation-delay: 0.5s; }
+.stagger-grid > .stagger-grid-item:nth-child(6) { animation-delay: 0.6s; }
+.stagger-grid > .stagger-grid-item:nth-child(7) { animation-delay: 0.7s; }
+.stagger-grid > .stagger-grid-item:nth-child(8) { animation-delay: 0.8s; }
+.stagger-grid > .stagger-grid-item:nth-child(9) { animation-delay: 0.9s; }
+
+/* ─── Header animation ─── */
+@keyframes header-in {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-header-in {
+  animation: header-in 0.8s cubic-bezier(0.25, 0.4, 0.25, 1) forwards;
+}
