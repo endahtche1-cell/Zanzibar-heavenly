@@ -28,7 +28,13 @@
       "Bash(do sed -i '' 's/\"\"currency\"\": \"\"USD\"\"/\"\"currency\"\": \"\"EUR\"\"/g' \"$f\")",
       "WebFetch(domain:unsplash.com)",
       "WebFetch(domain:images.unsplash.com)",
-      "WebFetch(domain:www.originaltravel.co.uk)"
+      "WebFetch(domain:www.originaltravel.co.uk)",
+      "Bash(for f in *.json:*)",
+      "Bash(do echo:*)",
+      "Bash(git status:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push)"
     ]
   }
 }
