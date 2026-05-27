@@ -4,6 +4,7 @@ import Link from 'next/link'
 import ImagePlaceholder from '@/components/ui/ImagePlaceholder'
 import Breadcrumbs from '@/components/ui/Breadcrumbs'
 import EnquiryForm from '@/components/ui/EnquiryForm'
+import BankTransferCard from '@/components/ui/BankTransferCard'
 import { TourJsonLd } from '@/components/ui/JsonLd'
 import { getExpeditionBySlug, getAllExpeditions } from '@/lib/content'
 import { formatPrice } from '@/lib/utils'
@@ -222,6 +223,7 @@ export default async function ExpeditionDetailPage({ params }: Props) {
               <div className="mt-6">
                 <EnquiryForm preselectedType="expedition" preselectedItem={exp.slug} compact />
               </div>
+              <BankTransferCard />
             </div>
           </FadeIn>
         </div>

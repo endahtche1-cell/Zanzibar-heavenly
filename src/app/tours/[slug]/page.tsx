@@ -5,6 +5,7 @@ import ImagePlaceholder from '@/components/ui/ImagePlaceholder'
 import Breadcrumbs from '@/components/ui/Breadcrumbs'
 import WhatsAppButton from '@/components/ui/WhatsAppButton'
 import EnquiryForm from '@/components/ui/EnquiryForm'
+import BankTransferCard from '@/components/ui/BankTransferCard'
 import { TourJsonLd } from '@/components/ui/JsonLd'
 import { getTourBySlug, getAllTours } from '@/lib/content'
 import { formatPrice } from '@/lib/utils'
@@ -250,6 +251,7 @@ export default async function TourDetailPage({ params }: Props) {
               <div className="mt-6">
                 <EnquiryForm preselectedType="tour" preselectedItem={tour.slug} compact />
               </div>
+              <BankTransferCard />
             </div>
           </FadeIn>
         </div>

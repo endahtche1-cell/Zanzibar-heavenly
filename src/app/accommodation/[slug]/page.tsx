@@ -4,6 +4,7 @@ import Link from 'next/link'
 import ImagePlaceholder from '@/components/ui/ImagePlaceholder'
 import Breadcrumbs from '@/components/ui/Breadcrumbs'
 import EnquiryForm from '@/components/ui/EnquiryForm'
+import BankTransferCard from '@/components/ui/BankTransferCard'
 import { AccommodationJsonLd } from '@/components/ui/JsonLd'
 import { getAccommodationBySlug, getAllAccommodation } from '@/lib/content'
 import { formatPrice } from '@/lib/utils'
@@ -177,6 +178,7 @@ export default async function AccommodationDetailPage({ params }: Props) {
               <div className="mt-6">
                 <EnquiryForm preselectedType="accommodation" preselectedItem={acc.slug} compact />
               </div>
+              <BankTransferCard />
             </div>
           </FadeIn>
         </div>
