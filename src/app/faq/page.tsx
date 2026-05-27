@@ -5,6 +5,7 @@ import Link from 'next/link'
 import type { FAQItem } from '@/lib/types'
 import { FadeIn } from '@/components/ui/Motion'
 import { FAQPageJsonLd } from '@/components/ui/JsonLd'
+import { siteConfig } from '@/config/site'
 
 export const metadata: Metadata = {
   title: 'FAQ — Frequently Asked Questions',
@@ -23,7 +24,7 @@ const faqItems: FAQItem[] = [
   },
   {
     question: 'What payment methods do you accept?',
-    answer: 'We accept bank transfers, major credit cards, and mobile payment options. A deposit is typically required to confirm your booking, with the balance due before or upon arrival. We will share full payment details once your booking is confirmed.',
+    answer: `We accept bank transfers, major credit cards, and mobile payment options. A deposit is typically required to confirm your booking, with the balance due before or upon arrival. For bank transfers, our account details are: Account Name: ${siteConfig.bankAccount.accountName}, Account Number: ${siteConfig.bankAccount.accountNumber}.`,
     category: 'Booking',
   },
   {

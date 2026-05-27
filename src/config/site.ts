@@ -6,6 +6,10 @@ export const siteConfig = {
   whatsappNumber: '255682490734',
   phone: '+255 682 490 734',
   currency: 'EUR' as const,
+  bankAccount: {
+    accountName: 'HEAVENLY ZANZIBAR',
+    accountNumber: '10375670076',
+  },
   location: {
     city: 'Stone Town',
     island: 'Zanzibar',
