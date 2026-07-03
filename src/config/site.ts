@@ -3,8 +3,8 @@ export const siteConfig = {
   tagline: 'Bespoke Zanzibar tours, expeditions, and stays — curated with local love.',
   url: process.env.SITE_URL || 'https://zanzibarheavenly.com',
   contactEmail: 'info@zanzibarheavenly.com',
-  whatsappNumber: '255682490734',
-  phone: '+255 682 490 734',
+  whatsappNumber: '255717973948',
+  phone: '+255 717 973 948',
   currency: 'EUR' as const,
   bankAccount: {
     accountName: 'HEAVENLY ZANZIBAR',
